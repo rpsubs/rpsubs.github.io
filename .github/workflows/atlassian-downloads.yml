@@ -1,9 +1,9 @@
 name: Atlassian Downloads
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "15 * * * *"
-  workflow_dispatch:
 
 jobs:
   get-downloads:
@@ -36,5 +36,4 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add docs/atlassian/downloads/*.json
-          git commit -m "docs/atlassian/downloads"
-          git push
+          git commit -m "docs/atlassian/downloads" && git push || echo "Nothing to commit"
