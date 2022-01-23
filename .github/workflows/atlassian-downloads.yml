@@ -14,12 +14,12 @@ jobs:
           python-version: '3.8'
       - name: Download feeds
         run: |
-        mkdir build
-        for product in {jira,confluence,stash} ; do \
-          curl --fail -o build/eap-${product}.json "https://my.atlassian.com/download/feeds/eap/$product.json" ; done
-        for product in {jira-software,confluence,stash} ; do \
-          curl --fail -o build/current-${product}.json "https://my.atlassian.com/download/feeds/current/$product.json" ; \
-          curl --fail -o build/archived-${product}.json "https://my.atlassian.com/download/feeds/archived/$product.json" ; done
+          mkdir build
+          for product in {jira,confluence,stash} ; do \
+            curl --fail -o build/eap-${product}.json "https://my.atlassian.com/download/feeds/eap/$product.json" ; done
+          for product in {jira-software,confluence,stash} ; do \
+            curl --fail -o build/current-${product}.json "https://my.atlassian.com/download/feeds/current/$product.json" ; \
+            curl --fail -o build/archived-${product}.json "https://my.atlassian.com/download/feeds/archived/$product.json" ; done
       - name: JSONP to JSON feed
         run: |
           for f in build/*.json ; do python jsonp2feed.py $f ; done
