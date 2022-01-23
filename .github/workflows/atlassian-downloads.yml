@@ -1,0 +1,34 @@
+name: Atlassian Downloads
+
+on:
+  schedule:
+    - cron: "15 * * * *"
+
+jobs:
+  get-downloads:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-python@v2
+        with:
+          python-version: '3.8'
+      - name: Download feeds
+        run: |
+        mkdir build
+        for product in {jira,confluence,stash} ; do \
+          curl --fail -o build/eap-${product}.json "https://my.atlassian.com/download/feeds/eap/$product.json" ; done
+        for product in {jira-software,confluence,stash} ; do \
+          curl --fail -o build/current-${product}.json "https://my.atlassian.com/download/feeds/current/$product.json" ; \
+          curl --fail -o build/archived-${product}.json "https://my.atlassian.com/download/feeds/archived/$product.json" ; done
+      - name: JSONP to JSON feed
+        run: |
+          for f in build/*.json ; do python jsonp2feed.py $f ; done
+      - name: Publish docs
+        run: |
+          mkdir -p docs/atlassian/downloads
+          cp build/*.json docs/atlassian/downloads/
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add docs/atlassian/downloads/*.json
+          git commit -m "docs/atlassian/downloads"
+          git push
