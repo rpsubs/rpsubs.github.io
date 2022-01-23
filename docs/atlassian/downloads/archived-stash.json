@@ -1,0 +1,127 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "archived-stash downloads",
+  "feed_url": "https://rpsubs.github.io/atlassian/downloads/archived-stash.json",
+  "items": [
+    {
+      "id": "https://www.atlassian.com/software/stash/downloads/binary/atlassian-bitbucket-7.6.13.zip",
+      "url": "https://www.atlassian.com/software/stash/downloads/binary/atlassian-bitbucket-7.6.13.zip",
+      "title": "archived-stash 7.6.13 (10-Jan-2022)",
+      "content_html": "<p><a href=\"https://confluence.atlassian.com/display/BitbucketServer/Bitbucket+Server+7.6+release+notes\">Release notes</a></p>"
+    },
+    {
+      "id": "https://www.atlassian.com/software/stash/downloads/binary/atlassian-bitbucket-7.17.5.zip",
+      "url": "https://www.atlassian.com/software/stash/downloads/binary/atlassian-bitbucket-7.17.5.zip",
+      "title": "archived-stash 7.17.5 (10-Jan-2022)",
+      "content_html": "<p><a href=\"https://confluence.atlassian.com/display/BitbucketServer/Bitbucket+Data+Center+and+Server+7.17+release+notes\">Release notes</a></p>"
+    },
+    {
+      "id": "https://www.atlassian.com/software/stash/downloads/binary/atlassian-bitbucket-6.10.17.zip",
+      "url": "https://www.atlassian.com/software/stash/downloads/binary/atlassian-bitbucket-6.10.17.zip",
+      "title": "archived-stash 6.10.17 (10-Jan-2022)",
+      "content_html": "<p><a href=\"https://confluence.atlassian.com/display/BitbucketServer/Bitbucket+Server+6.10+release+notes\">Release notes</a></p>"
+    },
+    {
+      "id": "https://www.atlassian.com/software/stash/downloads/binary/atlassian-bitbucket-7.19.2.zip",
+      "url": "https://www.atlassian.com/software/stash/downloads/binary/atlassian-bitbucket-7.19.2.zip",
+      "title": "archived-stash 7.19.2 (21-Dec-2021)",
+      "content_html": "<p><a href=\"https://confluence.atlassian.com/display/BitbucketServer/Bitbucket+Data+Center+and+Server+7.19+release+notes\">Release notes</a></p>"
+    },
+    {
+      "id": "https://www.atlassian.com/software/stash/downloads/binary/atlassian-bitbucket-7.6.12.zip",
+      "url": "https://www.atlassian.com/software/stash/downloads/binary/atlassian-bitbucket-7.6.12.zip",
+      "title": "archived-stash 7.6.12 (15-Dec-2021)",
+      "content_html": "<p><a href=\"https://confluence.atlassian.com/display/BitbucketServer/Bitbucket+Server+7.6+release+notes\">Release notes</a></p>"
+    },
+    {
+      "id": "https://www.atlassian.com/software/stash/downloads/binary/atlassian-bitbucket-7.18.3.zip",
+      "url": "https://www.atlassian.com/software/stash/downloads/binary/atlassian-bitbucket-7.18.3.zip",
+      "title": "archived-stash 7.18.3 (15-Dec-2021)",
+      "content_html": "<p><a href=\"https://confluence.atlassian.com/display/BitbucketServer/Bitbucket+Data+Center+and+Server+7.18+release+notes\">Release notes</a></p>"
+    },
+    {
+      "id": "https://www.atlassian.com/software/stash/downloads/binary/atlassian-bitbucket-7.17.4.zip",
+      "url": "https://www.atlassian.com/software/stash/downloads/binary/atlassian-bitbucket-7.17.4.zip",
+      "title": "archived-stash 7.17.4 (15-Dec-2021)",
+      "content_html": "<p><a href=\"https://confluence.atlassian.com/display/BitbucketServer/Bitbucket+Data+Center+and+Server+7.17+release+notes\">Release notes</a></p>"
+    },
+    {
+      "id": "https://www.atlassian.com/software/stash/downloads/binary/atlassian-bitbucket-7.16.3.zip",
+      "url": "https://www.atlassian.com/software/stash/downloads/binary/atlassian-bitbucket-7.16.3.zip",
+      "title": "archived-stash 7.16.3 (15-Dec-2021)",
+      "content_html": "<p><a href=\"https://confluence.atlassian.com/display/BitbucketServer/Bitbucket+Data+Center+and+Server+7.16+release+notes\">Release notes</a></p>"
+    },
+    {
+      "id": "https://www.atlassian.com/software/stash/downloads/binary/atlassian-bitbucket-7.15.3.zip",
+      "url": "https://www.atlassian.com/software/stash/downloads/binary/atlassian-bitbucket-7.15.3.zip",
+      "title": "archived-stash 7.15.3 (15-Dec-2021)",
+      "content_html": "<p><a href=\"https://confluence.atlassian.com/display/BitbucketServer/Bitbucket+Data+Center+and+Server+7.15+release+notes\">Release notes</a></p>"
+    },
+    {
+      "id": "https://www.atlassian.com/software/stash/downloads/binary/atlassian-bitbucket-7.14.2.zip",
+      "url": "https://www.atlassian.com/software/stash/downloads/binary/atlassian-bitbucket-7.14.2.zip",
+      "title": "archived-stash 7.14.2 (15-Dec-2021)",
+      "content_html": "<p><a href=\"https://confluence.atlassian.com/display/BitbucketServer/Bitbucket+Data+Center+and+Server+7.14+release+notes\">Release notes</a></p>"
+    },
+    {
+      "id": "https://www.atlassian.com/software/stash/downloads/binary/atlassian-bitbucket-6.10.16.zip",
+      "url": "https://www.atlassian.com/software/stash/downloads/binary/atlassian-bitbucket-6.10.16.zip",
+      "title": "archived-stash 6.10.16 (14-Dec-2021)",
+      "content_html": "<p><a href=\"https://confluence.atlassian.com/display/BitbucketServer/Bitbucket+Server+6.10+release+notes\">Release notes</a></p>"
+    },
+    {
+      "id": "https://www.atlassian.com/software/stash/downloads/binary/atlassian-bitbucket-7.18.2.zip",
+      "url": "https://www.atlassian.com/software/stash/downloads/binary/atlassian-bitbucket-7.18.2.zip",
+      "title": "archived-stash 7.18.2 (01-Dec-2021)",
+      "content_html": "<p><a href=\"https://confluence.atlassian.com/display/BitbucketServer/Bitbucket+Data+Center+and+Server+7.18+release+notes\">Release notes</a></p>"
+    },
+    {
+      "id": "https://www.atlassian.com/software/stash/downloads/binary/atlassian-bitbucket-7.17.3.zip",
+      "url": "https://www.atlassian.com/software/stash/downloads/binary/atlassian-bitbucket-7.17.3.zip",
+      "title": "archived-stash 7.17.3 (30-Nov-2021)",
+      "content_html": "<p><a href=\"https://confluence.atlassian.com/display/BitbucketServer/Bitbucket+Data+Center+and+Server+7.17+release+notes\">Release notes</a></p>"
+    },
+    {
+      "id": "https://www.atlassian.com/software/stash/downloads/binary/atlassian-bitbucket-7.6.11.zip",
+      "url": "https://www.atlassian.com/software/stash/downloads/binary/atlassian-bitbucket-7.6.11.zip",
+      "title": "archived-stash 7.6.11 (22-Nov-2021)",
+      "content_html": "<p><a href=\"https://confluence.atlassian.com/display/BitbucketServer/Bitbucket+Server+7.6+release+notes\">Release notes</a></p>"
+    },
+    {
+      "id": "https://www.atlassian.com/software/stash/downloads/binary/atlassian-bitbucket-7.18.1.zip",
+      "url": "https://www.atlassian.com/software/stash/downloads/binary/atlassian-bitbucket-7.18.1.zip",
+      "title": "archived-stash 7.18.1 (22-Nov-2021)",
+      "content_html": "<p><a href=\"https://confluence.atlassian.com/display/BitbucketServer/Bitbucket+Data+Center+and+Server+7.18+release+notes\">Release notes</a></p>"
+    },
+    {
+      "id": "https://www.atlassian.com/software/stash/downloads/binary/atlassian-bitbucket-7.16.2.zip",
+      "url": "https://www.atlassian.com/software/stash/downloads/binary/atlassian-bitbucket-7.16.2.zip",
+      "title": "archived-stash 7.16.2 (22-Nov-2021)",
+      "content_html": "<p><a href=\"https://confluence.atlassian.com/display/BitbucketServer/Bitbucket+Data+Center+and+Server+7.16+release+notes\">Release notes</a></p>"
+    },
+    {
+      "id": "https://www.atlassian.com/software/stash/downloads/binary/atlassian-bitbucket-7.15.2.zip",
+      "url": "https://www.atlassian.com/software/stash/downloads/binary/atlassian-bitbucket-7.15.2.zip",
+      "title": "archived-stash 7.15.2 (22-Nov-2021)",
+      "content_html": "<p><a href=\"https://confluence.atlassian.com/display/BitbucketServer/Bitbucket+Data+Center+and+Server+7.15+release+notes\">Release notes</a></p>"
+    },
+    {
+      "id": "https://www.atlassian.com/software/stash/downloads/binary/atlassian-bitbucket-6.10.15.zip",
+      "url": "https://www.atlassian.com/software/stash/downloads/binary/atlassian-bitbucket-6.10.15.zip",
+      "title": "archived-stash 6.10.15 (21-Nov-2021)",
+      "content_html": "<p><a href=\"https://confluence.atlassian.com/display/BitbucketServer/Bitbucket+Server+6.10+release+notes\">Release notes</a></p>"
+    },
+    {
+      "id": "https://www.atlassian.com/software/stash/downloads/binary/atlassian-bitbucket-7.17.2.zip",
+      "url": "https://www.atlassian.com/software/stash/downloads/binary/atlassian-bitbucket-7.17.2.zip",
+      "title": "archived-stash 7.17.2 (17-Nov-2021)",
+      "content_html": "<p><a href=\"https://confluence.atlassian.com/display/BitbucketServer/Bitbucket+Data+Center+and+Server+7.17+release+notes\">Release notes</a></p>"
+    },
+    {
+      "id": "https://www.atlassian.com/software/stash/downloads/binary/atlassian-bitbucket-7.18.0.zip",
+      "url": "https://www.atlassian.com/software/stash/downloads/binary/atlassian-bitbucket-7.18.0.zip",
+      "title": "archived-stash 7.18.0 (08-Nov-2021)",
+      "content_html": "<p><a href=\"https://confluence.atlassian.com/display/BitbucketServer/Bitbucket+Data+Center+and+Server+7.18+release+notes\">Release notes</a></p>"
+    }
+  ]
+}

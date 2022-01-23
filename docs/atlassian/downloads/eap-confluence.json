@@ -1,0 +1,13 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "eap-confluence downloads",
+  "feed_url": "https://rpsubs.github.io/atlassian/downloads/eap-confluence.json",
+  "items": [
+    {
+      "id": "https://www.atlassian.com/software/confluence/downloads/binary/atlassian-confluence-7.16.0-rc1-x64.bin",
+      "url": "https://www.atlassian.com/software/confluence/downloads/binary/atlassian-confluence-7.16.0-rc1-x64.bin",
+      "title": "eap-confluence 7.16.0-rc1 (20-Jan-2022)",
+      "content_html": "<p><a href=\"https://confluence.atlassian.com/display/DOC/Confluence+7.16+beta+release+notes\">Release notes</a></p>"
+    }
+  ]
+}
