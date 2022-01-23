@@ -3,6 +3,7 @@ name: Atlassian Downloads
 on:
   schedule:
     - cron: "15 * * * *"
+  workflow_dispatch:
 
 jobs:
   get-downloads:
