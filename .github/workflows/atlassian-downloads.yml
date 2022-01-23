@@ -23,7 +23,7 @@ jobs:
             curl --fail -o build/archived-${product}.json "https://my.atlassian.com/download/feeds/archived/$product.json" ; done
       - name: JSONP to JSON feed
         run: |
-          for f in build/*.json ; do python jsonp2feed.py $f ; done
+          for f in build/*.json ; do python atlassian/downloads/jsonp2feed.py $f ; done
       - name: Publish docs
         run: |
           mkdir -p docs/atlassian/downloads
