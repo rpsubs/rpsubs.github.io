@@ -12,6 +12,7 @@ with open(sys.argv[1], 'r') as f:
   jsonp = f.read()
 
 data = json.loads(jsonp[10:-1])
+print(len(data), 'items in JSONP')
 
 items = []
 versions = set()
@@ -26,6 +27,8 @@ while len(items) < MAX_ITEMS and len(data) > 0:
 
   items.append(item)
   versions.add(item.get('version'))
+
+print(len(items), 'items for feed')
 
 feed = {
   'version': 'https://jsonfeed.org/version/1',
