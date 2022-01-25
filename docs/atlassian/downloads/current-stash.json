@@ -4,10 +4,10 @@
   "feed_url": "https://rpsubs.github.io/atlassian/downloads/current-stash.json",
   "items": [
     {
-      "id": "https://www.atlassian.com/software/stash/downloads/binary/atlassian-bitbucket-7.19.3-x64.exe",
-      "url": "https://www.atlassian.com/software/stash/downloads/binary/atlassian-bitbucket-7.19.3-x64.exe",
-      "title": "current-stash 7.19.3 (10-Jan-2022)",
-      "content_html": "<p><a href=\"https://confluence.atlassian.com/display/BitbucketServer/Bitbucket+Data+Center+and+Server+7.19+release+notes\">Release notes</a></p>"
+      "id": "https://www.atlassian.com/software/stash/downloads/binary/atlassian-bitbucket-7.20.0-x64.exe",
+      "url": "https://www.atlassian.com/software/stash/downloads/binary/atlassian-bitbucket-7.20.0-x64.exe",
+      "title": "current-stash 7.20.0 (24-Jan-2022)",
+      "content_html": "<p><a href=\"https://confluence.atlassian.com/display/BitbucketServer/Bitbucket+Data+Center+and+Server+7.20+release+notes\">Release notes</a></p>"
     }
   ]
 }
