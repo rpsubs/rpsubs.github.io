@@ -40,6 +40,12 @@
       "content_html": "<p><a href=\"https://confluence.atlassian.com/display/JIRASOFTWARE/JIRA+Software+8.13.x+release+notes\">Release notes</a></p>"
     },
     {
+      "id": "https://www.atlassian.com/software/jira/downloads/binary/atlassian-jira-software-8.21.0.zip",
+      "url": "https://www.atlassian.com/software/jira/downloads/binary/atlassian-jira-software-8.21.0.zip",
+      "title": "archived-jira-software 8.21.0 (08-Dec-2021)",
+      "content_html": "<p><a href=\"https://confluence.atlassian.com/display/JIRASOFTWARE/JIRA+Software+8.21.x+release+notes\">Release notes</a></p>"
+    },
+    {
       "id": "https://www.atlassian.com/software/jira/downloads/binary/atlassian-jira-software-8.20.2.zip",
       "url": "https://www.atlassian.com/software/jira/downloads/binary/atlassian-jira-software-8.20.2.zip",
       "title": "archived-jira-software 8.20.2 (16-Nov-2021)",
@@ -116,12 +122,6 @@
       "url": "https://www.atlassian.com/software/jira/downloads/binary/atlassian-jira-software-8.13.10.zip",
       "title": "archived-jira-software 8.13.10 (16-Aug-2021)",
       "content_html": "<p><a href=\"https://confluence.atlassian.com/display/JIRASOFTWARE/JIRA+Software+8.13.x+release+notes\">Release notes</a></p>"
-    },
-    {
-      "id": "https://www.atlassian.com/software/jira/downloads/binary/atlassian-jira-software-8.18.1.zip",
-      "url": "https://www.atlassian.com/software/jira/downloads/binary/atlassian-jira-software-8.18.1.zip",
-      "title": "archived-jira-software 8.18.1 (21-Jul-2021)",
-      "content_html": "<p><a href=\"https://confluence.atlassian.com/display/JIRASOFTWARE/JIRA+Software+8.18.x+release+notes\">Release notes</a></p>"
     }
   ]
 }
