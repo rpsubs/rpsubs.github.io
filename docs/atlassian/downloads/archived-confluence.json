@@ -10,6 +10,12 @@
       "content_html": "<p><a href=\"https://confluence.atlassian.com/display/DOC/Confluence+7.15+Release+Notes\">Release notes</a></p>"
     },
     {
+      "id": "https://www.atlassian.com/software/confluence/downloads/binary/atlassian-confluence-7.13.3-x64.exe",
+      "url": "https://www.atlassian.com/software/confluence/downloads/binary/atlassian-confluence-7.13.3-x64.exe",
+      "title": "archived-confluence 7.13.3 (08-Dec-2021)",
+      "content_html": "<p><a href=\"https://confluence.atlassian.com/display/DOC/Confluence+7.13+Release+Notes\">Release notes</a></p>"
+    },
+    {
       "id": "https://www.atlassian.com/software/confluence/downloads/binary/atlassian-confluence-7.15.0-x64.exe",
       "url": "https://www.atlassian.com/software/confluence/downloads/binary/atlassian-confluence-7.15.0-x64.exe",
       "title": "archived-confluence 7.15.0 (22-Nov-2021)",
@@ -116,12 +122,6 @@
       "url": "https://www.atlassian.com/software/confluence/downloads/binary/atlassian-confluence-7.11.2-x64.exe",
       "title": "archived-confluence 7.11.2 (24-Mar-2021)",
       "content_html": "<p><a href=\"https://confluence.atlassian.com/display/DOC/Confluence+7.11+Release+Notes\">Release notes</a></p>"
-    },
-    {
-      "id": "https://www.atlassian.com/software/confluence/downloads/binary/atlassian-confluence-6.13.20-x64.exe",
-      "url": "https://www.atlassian.com/software/confluence/downloads/binary/atlassian-confluence-6.13.20-x64.exe",
-      "title": "archived-confluence 6.13.20 (16-Mar-2021)",
-      "content_html": "<p><a href=\"https://confluence.atlassian.com/display/DOC/Confluence+6.13+Release+Notes\">Release notes</a></p>"
     }
   ]
 }
