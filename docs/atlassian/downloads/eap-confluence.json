@@ -4,10 +4,10 @@
   "feed_url": "https://rpsubs.github.io/atlassian/downloads/eap-confluence.json",
   "items": [
     {
-      "id": "https://www.atlassian.com/software/confluence/downloads/binary/atlassian-confluence-7.16.0-rc1-x64.bin",
-      "url": "https://www.atlassian.com/software/confluence/downloads/binary/atlassian-confluence-7.16.0-rc1-x64.bin",
-      "title": "eap-confluence 7.16.0-rc1 (20-Jan-2022)",
-      "content_html": "<p><a href=\"https://confluence.atlassian.com/display/DOC/Confluence+7.16+beta+release+notes\">Release notes</a></p>"
+      "id": "https://www.atlassian.com/software/confluence/downloads/binary/atlassian-confluence-7.17.0-m47-x64.bin",
+      "url": "https://www.atlassian.com/software/confluence/downloads/binary/atlassian-confluence-7.17.0-m47-x64.bin",
+      "title": "eap-confluence 7.17.0-m47 (05-Feb-2022)",
+      "content_html": "<p><a href=\"https://confluence.atlassian.com/display/DOC/Preparing+for+Confluence+7.17\">Release notes</a></p>"
     }
   ]
 }
