@@ -10,6 +10,12 @@
       "content_html": "<p><a href=\"https://confluence.atlassian.com/display/JIRACORE/Preparing+for+Jira+9.0\">Release notes</a></p>"
     },
     {
+      "id": "https://www.atlassian.com/software/jira/downloads/binary/atlassian-jira-software-8.22.0-RC01-x64.exe",
+      "url": "https://www.atlassian.com/software/jira/downloads/binary/atlassian-jira-software-8.22.0-RC01-x64.exe",
+      "title": "eap-jira 8.22.0-RC01 (13-Feb-2022)",
+      "content_html": "<p><a href=\"https://confluence.atlassian.com/display/JIRACORE/Preparing+for+Jira+8.22\">Release notes</a></p>"
+    },
+    {
       "id": "https://www.atlassian.com/software/jira/downloads/binary/atlassian-jira-software-8.22.0-EAP02-x64.exe",
       "url": "https://www.atlassian.com/software/jira/downloads/binary/atlassian-jira-software-8.22.0-EAP02-x64.exe",
       "title": "eap-jira 8.22.0-EAP02 (08-Feb-2022)",
