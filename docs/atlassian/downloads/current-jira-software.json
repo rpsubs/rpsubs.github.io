@@ -4,6 +4,12 @@
   "feed_url": "https://rpsubs.github.io/atlassian/downloads/current-jira-software.json",
   "items": [
     {
+      "id": "https://www.atlassian.com/software/jira/downloads/binary/atlassian-jira-software-8.22.0-x64.exe",
+      "url": "https://www.atlassian.com/software/jira/downloads/binary/atlassian-jira-software-8.22.0-x64.exe",
+      "title": "current-jira-software 8.22.0 (15-Feb-2022)",
+      "content_html": "<p><a href=\"https://confluence.atlassian.com/display/JIRASOFTWARE/JIRA+Software+8.22.x+release+notes\">Release notes</a></p>"
+    },
+    {
       "id": "https://www.atlassian.com/software/jira/downloads/binary/atlassian-jira-software-8.21.1-x64.exe",
       "url": "https://www.atlassian.com/software/jira/downloads/binary/atlassian-jira-software-8.21.1-x64.exe",
       "title": "current-jira-software 8.21.1 (26-Jan-2022)",
