@@ -13,6 +13,16 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: 18
+          cache: 'npm'
+          cache-dependency-path: luminor/package-lock.json
+      - name: Get installed Playwright version
+        run: echo "PLAYWRIGHT_VERSION=$(node -e "console.log(require('./package-lock.json').packages['node_modules/playwright'].version)")" >> $GITHUB_ENV
+        working-directory: luminor
+      - name: Cache playwright binaries
+        uses: actions/cache@v3
+        with:
+          path: ~/.cache/ms-playwright
+          key: ${{ runner.os }}-playwright-${{ env.PLAYWRIGHT_VERSION }}
       - name: Install dependencies
         run: npm ci
         working-directory: luminor
