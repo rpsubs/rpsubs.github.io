@@ -1,0 +1,8 @@
+{
+  "name": "luminor",
+  "version": "1.0.0",
+  "main": "rss.ts",
+  "dependencies": {
+    "playwright": "^1.37.1"
+  }
+}

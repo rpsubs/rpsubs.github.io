@@ -1,0 +1,31 @@
+name: Luminor RSS
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "15 */4 * * *"
+
+jobs:
+  get-feed:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18
+      - name: Install dependencies
+        run: npm ci
+        working-directory: luminor
+      - name: Download feed
+        run: |
+          mkdir build
+          node rss.js > build/rss.xml
+        working-directory: luminor
+      - name: Publish docs
+        run: |
+          mkdir -p docs/luminor/lv
+          cp luminor/build/rss.xml docs/luminor/lv/
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add docs/luminor/lv/rss.xml
+          git commit -m "docs/luminor/lv/rss.xml" && git push || echo "Nothing to commit"
