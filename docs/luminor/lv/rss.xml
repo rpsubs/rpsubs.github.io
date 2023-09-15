@@ -6,6 +6,22 @@
     <language>lv</language>
      <atom:link href="https://www.luminor.lv/lv/rss.xml" rel="self" type="application/rss+xml" />
       <item>
+    <title>Luminor Grupa nekādā veidā nav saistīta ar Somijā bāzēto Luminor OY</title>
+    <link>https://www.luminor.lv/lv/jaunumi/luminor-grupa-nekada-veida-nav-saistita-ar-somija-bazeto-luminor-oy</link>
+    <description>
+  Luminor
+  &lt;p&gt;Vēlamies uzsvērt, ka Luminor Grupai (Luminor Holding AS, Luminor Bank AS un visiem tās meitas uzņēmumiem) nav nekādu attiecību vai saistību ar šo uzņēmumu.&lt;/p&gt;
+
+  &lt;a href=&quot;/lv/news&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Jaunumi&lt;/a&gt;
+    &lt;p class=&quot;text--lead&quot;&gt;       
+        Lūdzu, ņemiet vērā, ka Somijas uzņēmums Luminor OY tika iekļauts Ārvalstu aktīvu kontroles biroja (OFAC) sankciju sarakstā, ko ASV Valsts kases departaments publicēja 2023. gada 14. septembrī.    &lt;/p&gt;
+    &lt;span class=&quot;separator&quot;&gt;&lt;/span&gt;
+</description>
+     <pubDate>Fri, 15 Sep 2023 17:20:26 +0000</pubDate>
+ <dc:creator>arvidas.bendorius</dc:creator>
+ <guid isPermaLink="false">22339 at https://www.luminor.lv</guid>
+  </item>
+  <item>
     <title>Luminor Risku vadītāja amatā iecelts Djego Biondo</title>
     <link>https://www.luminor.lv/lv/jaunumi/luminor-risku-vaditaja-amata-iecelts-djego-biondo</link>
     <description>
@@ -135,22 +151,6 @@
      <pubDate>Thu, 31 Aug 2023 10:59:33 +0000</pubDate>
  <dc:creator>Guna.Janusevska</dc:creator>
  <guid isPermaLink="false">22309 at https://www.luminor.lv</guid>
-  </item>
-  <item>
-    <title>Aptauja: uzņēmējdarbības attīstību noteiks ekonomikas stabilitāte un energoresursu cenas</title>
-    <link>https://www.luminor.lv/lv/jaunumi/aptauja-uznemejdarbibas-attistibu-noteiks-ekonomikas-stabilitate-un-energoresursu-cenas</link>
-    <description>
-  Luminor  &lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.luminor.lv/sites/default/files/styles/large/public/documents/images/common/elektribas-cenas-min.jpg?itok=H_9rdfgX&quot; width=&quot;480&quot; height=&quot;480&quot; alt=&quot;&quot; /&gt;
-  &lt;p&gt;Nedaudz vairāk nekā puse (52%) Latvijas mazo un vidējo uzņēmumu uzskata, ka attīstību nākotnē visvairāk ietekmēs ekonomikas stabilitāte, īpaši būtiska tā šķiet uzņēmējiem Kurzemē (59%). 46% norāda, ka būtisks faktors būs arī energoresursu cenas, to kā galveno uzskata uzņēmēji Latgalē (67%). Savukārt trešdaļa aptaujāto (31%) atzīst, ka liela nozīme būs inflācijas līmenim.&lt;/p&gt;
-&lt;p&gt;Kā nedaudz mazāk būtiskus, bet joprojām nozīmīgus faktorus uzņēmēji min arī darbaspēka pieejamību (24%), kara attīstību Ukrainā (23%), ģeopolitisko situāciju Baltijā (20%) un piegādes ķēžu stabilitāti (16%).&lt;/p&gt;
-  &lt;a href=&quot;/lv/news&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Jaunumi&lt;/a&gt;
-    &lt;p class=&quot;text--lead&quot;&gt;       
-        Uzņēmēji atzīst, ka šī brīža ekonomiskā situācija nav vienkārša, un šogad visvairāk ir bijis jāpielāgojas augstajai inflācijai, izmaksu kāpumam, cenu pieaugumam par enerģiju un degvielu. Savukārt tuvākajos gados, pēc uzņēmēju domām, to attīstību visvairāk ietekmēs ekonomikas stabilitāte un energoresursu cenas, liecina Luminor bankas veiktā Latvijas mazo un vidējo uzņēmumu  aptauja*.    &lt;/p&gt;
-    &lt;span class=&quot;separator&quot;&gt;&lt;/span&gt;
-</description>
-     <pubDate>Wed, 30 Aug 2023 07:42:17 +0000</pubDate>
- <dc:creator>Guna.Janusevska</dc:creator>
- <guid isPermaLink="false">22304 at https://www.luminor.lv</guid>
   </item>
   </channel>
 </rss>
