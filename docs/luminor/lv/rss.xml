@@ -6,6 +6,24 @@
     <language>lv</language>
      <atom:link href="https://www.luminor.lv/lv/rss.xml" rel="self" type="application/rss+xml" />
       <item>
+    <title>Izmaiņas Luminor internetbankas adresē</title>
+    <link>https://www.luminor.lv/lv/jaunumi/izmainas-luminor-internetbankas-adrese</link>
+    <description>
+  Luminor  &lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.luminor.lv/sites/default/files/styles/large/public/documents/images/common/attention-min_1.jpg?itok=xTimt1r4&quot; width=&quot;480&quot; height=&quot;480&quot; alt=&quot;&quot; /&gt;
+  &lt;h3&gt;Kā mainīsies mana piekļuve internetbankai?&lt;/h3&gt;
+&lt;p&gt;Šīs izmaiņas nozīmē, ka no 4. oktobra mūs varēsi sasniegt, izmantojot jauno adresi &lt;strong&gt;ib.luminor.lv&lt;/strong&gt;. Ņem vērā, ka vēl aizvien varēsi izmantot iepriekšējo adresi – līdz gada beigām tu automātiski tiksi novirzīts no iepriekšējās adreses uz jauno adresi.&lt;/p&gt;
+&lt;h3&gt;Droša internetbankas lietošana &lt;/h3&gt;
+&lt;p&gt;Internetbankai visdrošāk ir pieslēgties, izmantojot Luminor tīmekļa vietni &lt;a href=&quot;http://luminor.lv&quot; rel=&quot;nofollow&quot;&gt;luminor.lv&lt;/a&gt; &lt;/p&gt;
+  &lt;a href=&quot;/lv/news&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Jaunumi&lt;/a&gt;
+    &lt;p class=&quot;text--lead&quot;&gt;       
+        No šī gada 4. oktobra Luminor pāriet uz jaunu internetbankas tīmekļa vietnes adresi, kas ietvers mūsu zīmola – Luminor – nosaukumu. Mūsu līdzšinējā internetbankas un mobilās bankas piekļuves saite ib.dnb.lv mainīsies uz ib.luminor.lv.    &lt;/p&gt;
+    &lt;span class=&quot;separator&quot;&gt;&lt;/span&gt;
+</description>
+     <pubDate>Tue, 19 Sep 2023 07:20:22 +0000</pubDate>
+ <dc:creator>Guna.Janusevska</dc:creator>
+ <guid isPermaLink="false">22343 at https://www.luminor.lv</guid>
+  </item>
+  <item>
     <title>Luminor Grupa nekādā veidā nav saistīta ar Somijā bāzēto Luminor OY</title>
     <link>https://www.luminor.lv/lv/jaunumi/luminor-grupa-nekada-veida-nav-saistita-ar-somija-bazeto-luminor-oy</link>
     <description>
@@ -136,21 +154,6 @@
      <pubDate>Thu, 31 Aug 2023 13:06:53 +0000</pubDate>
  <dc:creator>Guna.Janusevska</dc:creator>
  <guid isPermaLink="false">22310 at https://www.luminor.lv</guid>
-  </item>
-  <item>
-    <title>Luminor piešķir 1 miljonu eiro zemnieku saimniecībai Kalves</title>
-    <link>https://www.luminor.lv/lv/jaunumi/luminor-pieskir-1-miljonu-eiro-zemnieku-saimniecibai-kalves</link>
-    <description>
-  Luminor  &lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.luminor.lv/sites/default/files/styles/large/public/documents/images/common/kalves_foto-min.jpg?itok=U5lkNT3q&quot; width=&quot;480&quot; height=&quot;480&quot; alt=&quot;&quot; /&gt;
-  &lt;p&gt;“Veiksmīgu sadarbību ar klientu esam izveidojuši vairāku gadu garumā. Arī pirms pāris gadiem Luminor banka uzņēmuma attīstībai piešķīra vairāk nekā 200 tūkstošus eiro akvakultūras attīstīšanai. Lauksaimniecība un mežsaimniecība ir būtiskas Latvijas tautsaimniecības nozares, tiesa ne vienkāršas, jo uzņēmējdarbības veiksme lielā mērā ir pakļauta laikapstākļiem, kurus nav iespējams ietekmēt.&lt;/p&gt;
-  &lt;a href=&quot;/lv/news&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Jaunumi&lt;/a&gt;
-    &lt;p class=&quot;text--lead&quot;&gt;       
-        Luminor ar vairāk nekā vienu miljonu eiro atbalstījusi ZS Kalves attīstību. Saimniecība nodarbojas ar lauksaimniecību, mežsaimniecību, kokapstrādi, zivsaimniecību, meliorācijas pakalpojumu veikšanu un lauku tūrismu. Finansējums piešķirts jaunas tehnikas iegādei.     &lt;/p&gt;
-    &lt;span class=&quot;separator&quot;&gt;&lt;/span&gt;
-</description>
-     <pubDate>Thu, 31 Aug 2023 10:59:33 +0000</pubDate>
- <dc:creator>Guna.Janusevska</dc:creator>
- <guid isPermaLink="false">22309 at https://www.luminor.lv</guid>
   </item>
   </channel>
 </rss>
