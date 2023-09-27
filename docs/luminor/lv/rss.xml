@@ -6,6 +6,18 @@
     <language>lv</language>
      <atom:link href="https://www.luminor.lv/lv/rss.xml" rel="self" type="application/rss+xml" />
       <item>
+    <title>Luminor grupa nekādā veidā nav saistīta ar sankcionēto Luminor OY vai Luminor d.o.o.</title>
+    <link>https://www.luminor.lv/lv/jaunumi/luminor-grupa-nekada-veida-nav-saistita-ar-sankcioneto-luminor-oy-vai-luminor-doo</link>
+    <description>
+  Luminor
+  &lt;p class=&quot;text--lead&quot;&gt;Luminor grupai (Luminor Holding AS, Luminor Bank AS un visiem tās meitasuzņēmumiem) nav nekādas saiknes vai saistības ar Luminor OY vai Luminor d.o.o, kas ir Serbijā reģistrēts uzņēmums un kas tagad ir iekļauts ASV Valsts kases departamenta publicētajā Ārvalstu aktīvu kontroles biroja (OFAC) sankciju sarakstā. Luminor OY un Luminor d.o.o ir saistīti ar vienu un to pašu īpašnieku.&lt;/p&gt;
+
+  &lt;a href=&quot;/lv/news&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Jaunumi&lt;/a&gt;</description>
+     <pubDate>Wed, 27 Sep 2023 05:53:33 +0000</pubDate>
+ <dc:creator>Guna.Janusevska</dc:creator>
+ <guid isPermaLink="false">22362 at https://www.luminor.lv</guid>
+  </item>
+  <item>
     <title>Ieguldījums uzņēmuma akcijās: kā nekļūdīties?</title>
     <link>https://www.luminor.lv/lv/jaunumi/ieguldijums-uznemuma-akcijas-ka-nekludities</link>
     <description>
@@ -141,21 +153,6 @@
      <pubDate>Fri, 15 Sep 2023 05:24:28 +0000</pubDate>
  <dc:creator>Guna.Janusevska</dc:creator>
  <guid isPermaLink="false">22335 at https://www.luminor.lv</guid>
-  </item>
-  <item>
-    <title>Patēriņa prognozes uzlabojas, turpinās algu kāpums</title>
-    <link>https://www.luminor.lv/lv/jaunumi/paterina-prognozes-uzlabojas-turpinas-algu-kapums</link>
-    <description>
-  Luminor  &lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.luminor.lv/sites/default/files/styles/large/public/documents/images/common/peteris_strautins-min_0.jpg?itok=ZLePeaxb&quot; width=&quot;480&quot; height=&quot;480&quot; alt=&quot;Pēteris Strautiņš, Luminor ekonomists&quot; /&gt;
-  &lt;p&gt;Prognoze par 2023. gada IKP pieaugumu nemainās, tā joprojām ir 0,6%. Lai gan 1. pusgadā ekonomika bija tuvu stagnācijai, 2. pusgadā izaugsme varētu nedaudz paātrināties, uzlabojoties patēriņa nozaru darbības videi.&lt;/p&gt;
-  &lt;a href=&quot;/lv/news&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Jaunumi&lt;/a&gt;
-    &lt;p class=&quot;text--lead&quot;&gt;       
-        Šis gads Latvijas tautsaimniecībai ir izrādījies vēl viens rakstura audzināšanas gads – tas saistīts ar Eiropas ekonomikas nākotnes ainas pasliktināšanos, jo īpaši mūsu ražotājiem tik nozīmīgajā celtniecības nozarē. Tomēr, pateicoties tam, ka ir atsācies reālo algu kāpums, cikla zemākais punkts varētu būt pārvarēts. Vienlaikus uzlabojas arī patērētāju prognozes par saviem makiem un valsts ekonomiku. Kā vēsta Luminor bankas ekonomista Pētera Strautiņa jaunākais Latvijas un Baltijas ekonomikas apskats, nākamais gads valsts ekonomikai nesīs attīstības paātrinājumu, bet tas būs ļoti pakāpenisks, jo situācija preču eksporta nozarēs joprojām būs sarežģīta    &lt;/p&gt;
-    &lt;span class=&quot;separator&quot;&gt;&lt;/span&gt;
-</description>
-     <pubDate>Wed, 13 Sep 2023 11:02:08 +0000</pubDate>
- <dc:creator>Guna.Janusevska</dc:creator>
- <guid isPermaLink="false">22334 at https://www.luminor.lv</guid>
   </item>
   </channel>
 </rss>
