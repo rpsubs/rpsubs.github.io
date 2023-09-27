@@ -6,6 +6,21 @@
     <language>lv</language>
      <atom:link href="https://www.luminor.lv/lv/rss.xml" rel="self" type="application/rss+xml" />
       <item>
+    <title>Luminor klienti par naudas noguldīšanu saņems vairāk</title>
+    <link>https://www.luminor.lv/lv/jaunumi/luminor-klienti-par-naudas-noguldisanu-sanems-vairak</link>
+    <description>
+  Luminor  &lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.luminor.lv/sites/default/files/styles/large/public/documents/images/common/terminnoguldijumi-min.png?itok=7GG-R4yK&quot; width=&quot;480&quot; height=&quot;480&quot; alt=&quot;&quot; /&gt;
+  &lt;p&gt;Klientu pieprasītākajam termiņdepozītu noguldījumu periodam uz 12 mēnešiem likme paaugstināta līdz 4%, noguldījumiem uz 6 un 9 mēnešiem - līdz 3,25%, uz 3 mēnešiem - līdz 3%.&lt;/p&gt;
+  &lt;a href=&quot;/lv/news&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Jaunumi&lt;/a&gt;
+    &lt;p class=&quot;text--lead&quot;&gt;       
+        Īsā laikā pēc iepriekšējā termiņdepozītu likmju paaugstinājuma Luminor banka gan privātpersonām, gan juridiskām personām atkārtoti paaugstinājusi noguldījuma procentus līdz 4%.    &lt;/p&gt;
+    &lt;span class=&quot;separator&quot;&gt;&lt;/span&gt;
+</description>
+     <pubDate>Wed, 27 Sep 2023 12:53:42 +0000</pubDate>
+ <dc:creator>Guna.Janusevska</dc:creator>
+ <guid isPermaLink="false">22366 at https://www.luminor.lv</guid>
+  </item>
+  <item>
     <title>Luminor grupa nekādā veidā nav saistīta ar sankcionēto Luminor OY vai Luminor d.o.o.</title>
     <link>https://www.luminor.lv/lv/jaunumi/luminor-grupa-nekada-veida-nav-saistita-ar-sankcioneto-luminor-oy-vai-luminor-doo</link>
     <description>
@@ -138,21 +153,6 @@
      <pubDate>Fri, 15 Sep 2023 09:15:11 +0000</pubDate>
  <dc:creator>Guna.Janusevska</dc:creator>
  <guid isPermaLink="false">22338 at https://www.luminor.lv</guid>
-  </item>
-  <item>
-    <title>Augusta mēnesis obligāciju zīmē</title>
-    <link>https://www.luminor.lv/lv/jaunumi/augusta-menesis-obligaciju-zime</link>
-    <description>
-  Luminor  &lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.luminor.lv/sites/default/files/styles/large/public/documents/images/common/tarass_newsletter-min_1.jpg?itok=ElJylpoy&quot; width=&quot;480&quot; height=&quot;270&quot; alt=&quot;&quot; /&gt;
-  &lt;p&gt;Augusts akcijām kļuvis par nelabvēlīgāko mēnesi šogad svārstīgo finanšu tirgu dēļ. Lai gan vēsturiski pārsteidzošās ziņas par ASV kredītreitinga pazemināšanu, ko veica reitingu aģentūra &quot;Fitch&quot;, būtiski neietekmēja obligāciju tirgu, ekonomiskie dati, kas bija labāki nekā gaidīts, un ievērojams jauno obligāciju piedāvājums augusta vidū nodrošināja jaunas virsotnes obligāciju ienesīgumā. Tomēr mēneša otrajā pusē obligāciju ienesīgumi samazinājās, un attīstīto valstu akcijas daļēji atguva zaudējumus.&lt;/p&gt;
-  &lt;a href=&quot;/lv/news&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Jaunumi&lt;/a&gt;
-    &lt;p class=&quot;text--lead&quot;&gt;       
-        Tarass Buka, Luminor Ieguldījumu pārvaldes vadītājs    &lt;/p&gt;
-    &lt;span class=&quot;separator&quot;&gt;&lt;/span&gt;
-</description>
-     <pubDate>Fri, 15 Sep 2023 05:24:28 +0000</pubDate>
- <dc:creator>Guna.Janusevska</dc:creator>
- <guid isPermaLink="false">22335 at https://www.luminor.lv</guid>
   </item>
   </channel>
 </rss>
