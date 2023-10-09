@@ -6,6 +6,21 @@
     <language>lv</language>
      <atom:link href="https://www.luminor.lv/lv/rss.xml" rel="self" type="application/rss+xml" />
       <item>
+    <title>Zudušo cenu laiku meklējot</title>
+    <link>https://www.luminor.lv/lv/jaunumi/zuduso-cenu-laiku-meklejot</link>
+    <description>
+  Luminor  &lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.luminor.lv/sites/default/files/styles/large/public/documents/images/common/peteris-strautins-1-min.jpg?itok=c2IEEnJb&quot; width=&quot;480&quot; height=&quot;480&quot; alt=&quot;Pēteris Strautiņš, Luminor ekonomists&quot; /&gt;
+  &lt;p&gt;Gada inflācija septembrī samazinājās līdz 3,3%, un tagad Latvijā tā ir zemākā Baltijas valstu starpā, Lietuvā inflācija ir samazinājusies līdz 3,6%, bet Igaunijā līdz 4,2%. Pašlaik cenu kāpums mūsu valstī ir lēnāks arī nekā vidēji eirozonā - ja harmonizētais cenu indekss Latvijā septembrī gada griezumā auga par 3,5%, tad eirozonā par 4,3 %. Iepriekšējo reizi cenu kāpums Latvijā saudzīgāks par eirozonas vidējo bija 2021. gada martā.&lt;/p&gt;
+  &lt;a href=&quot;/lv/news&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Jaunumi&lt;/a&gt;
+    &lt;p class=&quot;text--lead&quot;&gt;       
+        Par patēriņa cenu izmaiņām 2023. gada septembrī    &lt;/p&gt;
+    &lt;span class=&quot;separator&quot;&gt;&lt;/span&gt;
+</description>
+     <pubDate>Mon, 09 Oct 2023 13:02:59 +0000</pubDate>
+ <dc:creator>Guna.Janusevska</dc:creator>
+ <guid isPermaLink="false">22387 at https://www.luminor.lv</guid>
+  </item>
+  <item>
     <title>Vai negatīvais noskaņojums tirgos ir pamatots?</title>
     <link>https://www.luminor.lv/lv/jaunumi/vai-negativais-noskanojums-tirgos-ir-pamatots</link>
     <description>
@@ -135,21 +150,6 @@
      <pubDate>Fri, 22 Sep 2023 13:38:41 +0000</pubDate>
  <dc:creator>Guna.Janusevska</dc:creator>
  <guid isPermaLink="false">22353 at https://www.luminor.lv</guid>
-  </item>
-  <item>
-    <title>Visvairāk šogad finansējumam pieteikušies lauksaimniecības un mežsaimniecības uzņēmumi</title>
-    <link>https://www.luminor.lv/lv/jaunumi/visvairak-sogad-finansejumam-pieteikusies-lauksaimniecibas-un-mezsaimniecibas-uznemumi</link>
-    <description>
-  Luminor  &lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.luminor.lv/sites/default/files/styles/large/public/documents/images/common/meztehnika-min.jpg?itok=lDSPqHqd&quot; width=&quot;480&quot; height=&quot;480&quot; alt=&quot;&quot; /&gt;
-  &lt;p&gt;Kā liecina Luminor veiktā mazo un vidējo uzņēmēju aptauja, biznesa pārstāvji atzīst, ka ekonomiskā situācija nav vienkārša, un šogad visvairāk ir bijis jāpielāgojas augstajai inflācijai, izmaksu kāpumam, kā arī enerģijas un degvielas cenu pieaugumam. Luminor bankas novērojumi liecina, ka pašreiz lielāko ietekmi rada patērētāju pirktspējas kritums un pieaugošā Euribor likme kreditēšanā, kā arī satricinājumi globālajos mājokļu tirgos.&lt;/p&gt;
-  &lt;a href=&quot;/lv/news&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Jaunumi&lt;/a&gt;
-    &lt;p class=&quot;text--lead&quot;&gt;       
-        Šī gada pirmajos astoņos mēnešos Luminor banka Latvijas mazo un vidējo uzņēmumu (MVU) biznesa attīstībai ir izsniegusi 100 miljonus eiro, kas ir līdzvērtīgs pagājušā gada apjomam attiecīgajā laika posmā. TOP nozares, kuras šogad visaktīvāk izmantojušas finansējumu uzņēmējdarbības attīstībai, ir lauksaimniecības, mežsaimniecības un lielākais izmantotā finansējuma pieaugums bijis mazumtirdzniecības un vairumtirdzniecības uzņēmumiem.    &lt;/p&gt;
-    &lt;span class=&quot;separator&quot;&gt;&lt;/span&gt;
-</description>
-     <pubDate>Fri, 22 Sep 2023 11:46:13 +0000</pubDate>
- <dc:creator>Guna.Janusevska</dc:creator>
- <guid isPermaLink="false">22356 at https://www.luminor.lv</guid>
   </item>
   </channel>
 </rss>
