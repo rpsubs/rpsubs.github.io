@@ -6,6 +6,21 @@
     <language>lv</language>
      <atom:link href="https://www.luminor.lv/lv/rss.xml" rel="self" type="application/rss+xml" />
       <item>
+    <title>Iedzīvotājus satrauc maksājumi par apkuri</title>
+    <link>https://www.luminor.lv/lv/jaunumi/iedzivotajus-satrauc-maksajumi-par-apkuri</link>
+    <description>
+  Luminor  &lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.luminor.lv/sites/default/files/styles/large/public/documents/images/common/maksajumi-rudeni-min.jpg?itok=XB4VlHdt&quot; width=&quot;480&quot; height=&quot;480&quot; alt=&quot;&quot; /&gt;
+  &lt;p&gt;Visbiežāk par apkures izdevumiem satraukumu pauž Rīgas un citu lielo pilsētu iedzīvotāji, kā arī Latgalē dzīvojošie, vismazāk satraucas iedzīvotāji Latvijas laukos. Lielākas bažas apkures maksājumu veikšana izraisa arī mājsaimniecībās, kurās ir tikai viens cilvēks.&lt;/p&gt;
+  &lt;a href=&quot;/lv/news&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Jaunumi&lt;/a&gt;
+    &lt;p class=&quot;text--lead&quot;&gt;       
+        Gandrīz pusi jeb 46% Latvijas iedzīvotāju līdz ar rudens sezonas sākšanos visvairāk satrauc maksājumi par siltumenerģiju. Salīdzinoši mazāku sabiedrības daļu uztrauc arī citi izdevumi, t.sk. par elektroenerģiju, degvielu, pārtiku un kredīta maksājumiem, liecina Luminor bankas veiktā iedzīvotāju aptauja*. Tās dati liecina, ka tikai 4% respondentu neuztrauc maksājumu veikšana.    &lt;/p&gt;
+    &lt;span class=&quot;separator&quot;&gt;&lt;/span&gt;
+</description>
+     <pubDate>Tue, 17 Oct 2023 08:28:34 +0000</pubDate>
+ <dc:creator>Guna.Janusevska</dc:creator>
+ <guid isPermaLink="false">22392 at https://www.luminor.lv</guid>
+  </item>
+  <item>
     <title>Sociālās uzņēmējdarbības piču konkursā uzvar apģērbu ražošana cilvēkiem ar kustību traucējumiem un Rokskola</title>
     <link>https://www.luminor.lv/lv/jaunumi/socialas-uznemejdarbibas-picu-konkursa-uzvar-apgerbu-razosana-cilvekiem-ar-kustibu</link>
     <description>
@@ -142,18 +157,6 @@
      <pubDate>Wed, 27 Sep 2023 12:53:42 +0000</pubDate>
  <dc:creator>Guna.Janusevska</dc:creator>
  <guid isPermaLink="false">22366 at https://www.luminor.lv</guid>
-  </item>
-  <item>
-    <title>Luminor grupa nekādā veidā nav saistīta ar sankcionēto Luminor OY vai Luminor d.o.o.</title>
-    <link>https://www.luminor.lv/lv/jaunumi/luminor-grupa-nekada-veida-nav-saistita-ar-sankcioneto-luminor-oy-vai-luminor-doo</link>
-    <description>
-  Luminor
-  &lt;p class=&quot;text--lead&quot;&gt;Luminor grupai (Luminor Holding AS, Luminor Bank AS un visiem tās meitasuzņēmumiem) nav nekādas saiknes vai saistības ar Luminor OY vai Luminor d.o.o, kas ir Serbijā reģistrēts uzņēmums un kas tagad ir iekļauts ASV Valsts kases departamenta publicētajā Ārvalstu aktīvu kontroles biroja (OFAC) sankciju sarakstā. Luminor OY un Luminor d.o.o ir saistīti ar vienu un to pašu īpašnieku.&lt;/p&gt;
-
-  &lt;a href=&quot;/lv/news&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Jaunumi&lt;/a&gt;</description>
-     <pubDate>Wed, 27 Sep 2023 05:53:33 +0000</pubDate>
- <dc:creator>Guna.Janusevska</dc:creator>
- <guid isPermaLink="false">22362 at https://www.luminor.lv</guid>
   </item>
   </channel>
 </rss>
