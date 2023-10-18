@@ -6,6 +6,21 @@
     <language>lv</language>
      <atom:link href="https://www.luminor.lv/lv/rss.xml" rel="self" type="application/rss+xml" />
       <item>
+    <title>Krāpnieciski zvani, viltus īsziņas un e-pasti – biežāk izmantotie paņēmieni Latvijas iedzīvotāju apkrāpšanai </title>
+    <link>https://www.luminor.lv/lv/jaunumi/krapnieciski-zvani-viltus-iszinas-un-e-pasti-biezak-izmantotie-panemieni-latvijas</link>
+    <description>
+  Luminor  &lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.luminor.lv/sites/default/files/styles/large/public/documents/images/common/krapnieki-min_2.jpg?itok=Pq_BQZoF&quot; width=&quot;480&quot; height=&quot;480&quot; alt=&quot;&quot; /&gt;
+  &lt;p&gt;Ar krāpnieciskiem zvaniem biežāk sastapušies lielās pilsētās dzīvojošie, savukārt vismazāk – jauni cilvēki līdz 29 gadu vecumam. Tikmēr par viltus īsziņu upuriem biežāk kļuvuši tieši gados jaunāki aptaujātie. &lt;/p&gt;
+  &lt;a href=&quot;/lv/news&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Jaunumi&lt;/a&gt;
+    &lt;p class=&quot;text--lead&quot;&gt;       
+        Aptuveni divi no trim Latvijas iedzīvotājiem (71%) pēdējā gada laikā ir saņēmuši krāpniecisku zvanu, bet viens no trīs jeb 31% - viltus īsziņu, liecina Luminor bankas veiktā iedzīvotāju aptauja*. Tāpat respondenti bieži sastapušies arī ar datu – internetbankas lietotāja numura, personas kodu un karšu datu – izvilināšanas mēģinājumiem dažādu darījumu veikšanai.    &lt;/p&gt;
+    &lt;span class=&quot;separator&quot;&gt;&lt;/span&gt;
+</description>
+     <pubDate>Wed, 18 Oct 2023 06:44:08 +0000</pubDate>
+ <dc:creator>Guna.Janusevska</dc:creator>
+ <guid isPermaLink="false">22393 at https://www.luminor.lv</guid>
+  </item>
+  <item>
     <title>Iedzīvotājus satrauc maksājumi par apkuri</title>
     <link>https://www.luminor.lv/lv/jaunumi/iedzivotajus-satrauc-maksajumi-par-apkuri</link>
     <description>
@@ -142,21 +157,6 @@
      <pubDate>Thu, 28 Sep 2023 06:44:05 +0000</pubDate>
  <dc:creator>Guna.Janusevska</dc:creator>
  <guid isPermaLink="false">22367 at https://www.luminor.lv</guid>
-  </item>
-  <item>
-    <title>Luminor klienti par naudas noguldīšanu saņems vairāk</title>
-    <link>https://www.luminor.lv/lv/jaunumi/luminor-klienti-par-naudas-noguldisanu-sanems-vairak</link>
-    <description>
-  Luminor  &lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.luminor.lv/sites/default/files/styles/large/public/documents/images/common/terminnoguldijumi-min.png?itok=7GG-R4yK&quot; width=&quot;480&quot; height=&quot;480&quot; alt=&quot;&quot; /&gt;
-  &lt;p&gt;Klientu pieprasītākajam termiņdepozītu noguldījumu periodam uz 12 mēnešiem likme paaugstināta līdz 4%, noguldījumiem uz 6 un 9 mēnešiem - līdz 3,25%, uz 3 mēnešiem - līdz 3%.&lt;/p&gt;
-  &lt;a href=&quot;/lv/news&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Jaunumi&lt;/a&gt;
-    &lt;p class=&quot;text--lead&quot;&gt;       
-        Īsā laikā pēc iepriekšējā termiņdepozītu likmju paaugstinājuma Luminor banka gan privātpersonām, gan juridiskām personām atkārtoti paaugstinājusi noguldījuma procentus līdz 4%.    &lt;/p&gt;
-    &lt;span class=&quot;separator&quot;&gt;&lt;/span&gt;
-</description>
-     <pubDate>Wed, 27 Sep 2023 12:53:42 +0000</pubDate>
- <dc:creator>Guna.Janusevska</dc:creator>
- <guid isPermaLink="false">22366 at https://www.luminor.lv</guid>
   </item>
   </channel>
 </rss>
