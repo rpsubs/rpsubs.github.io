@@ -6,6 +6,21 @@
     <language>lv</language>
      <atom:link href="https://www.luminor.lv/lv/rss.xml" rel="self" type="application/rss+xml" />
       <item>
+    <title>Luminor bankas trešā ceturkšņa darbības rezultāti</title>
+    <link>https://www.luminor.lv/lv/jaunumi/luminor-bankas-tresa-ceturksna-darbibas-rezultati</link>
+    <description>
+  Luminor  &lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.luminor.lv/sites/default/files/styles/large/public/documents/images/common/kerli-vares-2-min.png?itok=kRx5VnTI&quot; width=&quot;480&quot; height=&quot;480&quot; alt=&quot;Kerli Vares, Luminor bankas vadītāja Latvijā&quot; /&gt;
+  &lt;p&gt;Šī gada 3. ceturksnī Luminor turpināja ieguldīt savā nākotnes kapacitātē un iespējās, īpaši koncentrējoties uz atbalstu klientiem un stratēģijas īstenošanu, lai iegūtu no Baltijas reģiona spēcīgajām ilgtermiņa izaugsmes perspektīvām.&lt;/p&gt;
+  &lt;a href=&quot;/lv/news&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Jaunumi&lt;/a&gt;
+    &lt;p class=&quot;text--lead&quot;&gt;       
+        Šī gada trešajā ceturksnī Luminor saglabāja spēcīgu likviditāti un kapitāla pozīcijas, kā arī veica ieguldījumus turpmākā attīstībā, uzlabojot efektivitāti. Luminor bankas darbība apliecina stabilu kredītu kvalitāti. Ienākumus nenesošo aizdevumu apjoms ir 1,3 % apmērā no bruto aizdevumiem.    &lt;/p&gt;
+    &lt;span class=&quot;separator&quot;&gt;&lt;/span&gt;
+</description>
+     <pubDate>Wed, 01 Nov 2023 13:32:59 +0000</pubDate>
+ <dc:creator>Guna.Janusevska</dc:creator>
+ <guid isPermaLink="false">22414 at https://www.luminor.lv</guid>
+  </item>
+  <item>
     <title>Jauns krāpšanas veids: lūdz “atmaskot” viltus bankas darbiniekus, nododot naudu drošībā</title>
     <link>https://www.luminor.lv/lv/jaunumi/jauns-krapsanas-veids-ludz-atmaskot-viltus-bankas-darbiniekus-nododot-naudu-drosiba</link>
     <description>
@@ -140,21 +155,6 @@
      <pubDate>Mon, 09 Oct 2023 13:02:59 +0000</pubDate>
  <dc:creator>Guna.Janusevska</dc:creator>
  <guid isPermaLink="false">22387 at https://www.luminor.lv</guid>
-  </item>
-  <item>
-    <title>Vai negatīvais noskaņojums tirgos ir pamatots?</title>
-    <link>https://www.luminor.lv/lv/jaunumi/vai-negativais-noskanojums-tirgos-ir-pamatots</link>
-    <description>
-  Luminor  &lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.luminor.lv/sites/default/files/styles/large/public/documents/images/common/tarass_newsletter-min_1_0.jpg?itok=a0StR0vs&quot; width=&quot;480&quot; height=&quot;270&quot; alt=&quot;&quot; /&gt;
-  &lt;p&gt;Likās, ka septembris ir precīzs 2022. gada atkārtojums - gan akciju, gan obligāciju ienesīgums bija negatīvs, arī zelts nenesa peļņu, eiro vērtība attiecībā pret ASV dolāru samazinājās, savukārt naftas vērtība saglabājās augsta, sasniedzot jaunu gada rekordu. Lai gan septembris ierasti akciju tirgos raksturīgs ar izteiktu sezonalitāti, centrālo banku prognozes ilgāk saglabāt augstākas procentu likmes izraisīja obligāciju cenu kritumu un riska samazināšanās noskaņojumu kopumā.&lt;/p&gt;
-  &lt;a href=&quot;/lv/news&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Jaunumi&lt;/a&gt;
-    &lt;p class=&quot;text--lead&quot;&gt;       
-        Tarass Buka, Luminor Ieguldījumu pārvaldes vadītājs    &lt;/p&gt;
-    &lt;span class=&quot;separator&quot;&gt;&lt;/span&gt;
-</description>
-     <pubDate>Fri, 06 Oct 2023 10:46:55 +0000</pubDate>
- <dc:creator>Guna.Janusevska</dc:creator>
- <guid isPermaLink="false">22382 at https://www.luminor.lv</guid>
   </item>
   </channel>
 </rss>
