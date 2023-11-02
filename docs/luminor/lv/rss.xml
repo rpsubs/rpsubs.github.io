@@ -6,6 +6,21 @@
     <language>lv</language>
      <atom:link href="https://www.luminor.lv/lv/rss.xml" rel="self" type="application/rss+xml" />
       <item>
+    <title>Puse Latvijas iedzīvotāju jūtas finansiāli droši, sagaidot ziemas sezonu;  trešdaļa – joprojām bažīgi</title>
+    <link>https://www.luminor.lv/lv/jaunumi/puse-latvijas-iedzivotaju-jutas-finansiali-drosi-sagaidot-ziemas-sezonu-tresdala-joprojam</link>
+    <description>
+  Luminor  &lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.luminor.lv/sites/default/files/styles/large/public/documents/images/common/gimene-min.jpg?itok=3P_hhjGx&quot; width=&quot;480&quot; height=&quot;480&quot; alt=&quot;&quot; /&gt;
+  &lt;p&gt;14% Latvijas iedzīvotāju par šo jautājumu nav domājuši, vai tiem ir cita atbilde. &lt;/p&gt;
+  &lt;a href=&quot;/lv/news&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Jaunumi&lt;/a&gt;
+    &lt;p class=&quot;text--lead&quot;&gt;       
+        Mazinoties inflācijai un krītot apkures cenām, 49% Latvijas iedzīvotāju jūtas finansiāli droši un stabili, sagaidot ziemu. Tajā pašā laikā nedaudz vairāk nekā trešdaļa (37%) aptaujāto ir pretējās domās un ar bažām sagaida ziemas sezonu, liecina Luminor bankas veiktā iedzīvotāju aptauja*.    &lt;/p&gt;
+    &lt;span class=&quot;separator&quot;&gt;&lt;/span&gt;
+</description>
+     <pubDate>Thu, 02 Nov 2023 08:00:32 +0000</pubDate>
+ <dc:creator>Guna.Janusevska</dc:creator>
+ <guid isPermaLink="false">22416 at https://www.luminor.lv</guid>
+  </item>
+  <item>
     <title>Luminor bankas trešā ceturkšņa darbības rezultāti</title>
     <link>https://www.luminor.lv/lv/jaunumi/luminor-bankas-tresa-ceturksna-darbibas-rezultati</link>
     <description>
@@ -140,21 +155,6 @@
      <pubDate>Tue, 10 Oct 2023 11:38:26 +0000</pubDate>
  <dc:creator>Guna.Janusevska</dc:creator>
  <guid isPermaLink="false">22388 at https://www.luminor.lv</guid>
-  </item>
-  <item>
-    <title>Zudušo cenu laiku meklējot</title>
-    <link>https://www.luminor.lv/lv/jaunumi/zuduso-cenu-laiku-meklejot</link>
-    <description>
-  Luminor  &lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.luminor.lv/sites/default/files/styles/large/public/documents/images/common/peteris-strautins-1-min.jpg?itok=c2IEEnJb&quot; width=&quot;480&quot; height=&quot;480&quot; alt=&quot;Pēteris Strautiņš, Luminor ekonomists&quot; /&gt;
-  &lt;p&gt;Gada inflācija septembrī samazinājās līdz 3,3%, un tagad Latvijā tā ir zemākā Baltijas valstu starpā, Lietuvā inflācija ir samazinājusies līdz 3,6%, bet Igaunijā līdz 4,2%. Pašlaik cenu kāpums mūsu valstī ir lēnāks arī nekā vidēji eirozonā - ja harmonizētais cenu indekss Latvijā septembrī gada griezumā auga par 3,5%, tad eirozonā par 4,3 %. Iepriekšējo reizi cenu kāpums Latvijā saudzīgāks par eirozonas vidējo bija 2021. gada martā.&lt;/p&gt;
-  &lt;a href=&quot;/lv/news&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Jaunumi&lt;/a&gt;
-    &lt;p class=&quot;text--lead&quot;&gt;       
-        Par patēriņa cenu izmaiņām 2023. gada septembrī    &lt;/p&gt;
-    &lt;span class=&quot;separator&quot;&gt;&lt;/span&gt;
-</description>
-     <pubDate>Mon, 09 Oct 2023 13:02:59 +0000</pubDate>
- <dc:creator>Guna.Janusevska</dc:creator>
- <guid isPermaLink="false">22387 at https://www.luminor.lv</guid>
   </item>
   </channel>
 </rss>
