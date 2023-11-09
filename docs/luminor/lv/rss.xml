@@ -6,6 +6,21 @@
     <language>lv</language>
      <atom:link href="https://www.luminor.lv/lv/rss.xml" rel="self" type="application/rss+xml" />
       <item>
+    <title>Kā noskaidrot savu kredītvēsturi, un kā tā var ietekmēt nākotnes aizdevumus?</title>
+    <link>https://www.luminor.lv/lv/jaunumi/ka-noskaidrot-savu-kreditvesturi-un-ka-ta-var-ietekmet-nakotnes-aizdevumus</link>
+    <description>
+  Luminor  &lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.luminor.lv/sites/default/files/styles/large/public/documents/images/common/kreditvesture-min.jpg?itok=CDVD-lF_&quot; width=&quot;480&quot; height=&quot;480&quot; alt=&quot;&quot; /&gt;
+  &lt;h3&gt;Kas ir kredītvēsture un kur to meklēt?&lt;/h3&gt;
+  &lt;a href=&quot;/lv/news&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Jaunumi&lt;/a&gt;
+    &lt;p class=&quot;text--lead&quot;&gt;       
+        Vai kavēta telekomunikāciju pakalpojumu (tālruņa) vai komunālo maksājumu rēķina dēļ banka nepiešķirs hipotekāro kredītu? Vai kavēti maksājumi kredītam, kam esmu galvotājs, var ietekmēt manu iespēju saņemt aizdevumu? Vai vairāki patēriņa kredīti mani padara par riskantu klientu bankām? Lai pārliecinātos par savu riska pakāpi, ikviens var pārbaudīt savu kredītvēsturi. Luminor mājokļu kreditēšanas vadītājs Kaspars Sausais skaidro, kāpēc bankām jāizvērtē potenciālo klientu kredītvēsture un kā tā var ietekmēt spēju aizņemties.     &lt;/p&gt;
+    &lt;span class=&quot;separator&quot;&gt;&lt;/span&gt;
+</description>
+     <pubDate>Thu, 09 Nov 2023 14:07:08 +0000</pubDate>
+ <dc:creator>Guna.Janusevska</dc:creator>
+ <guid isPermaLink="false">22423 at https://www.luminor.lv</guid>
+  </item>
+  <item>
     <title>Aptauja: iespējas norēķināties ar karti iedzīvotājiem visvairāk pietrūkst tirgos, gadatirgos un par skaistumkopšanas pakalpojumiem</title>
     <link>https://www.luminor.lv/lv/jaunumi/aptauja-iespejas-norekinaties-ar-karti-iedzivotajiem-visvairak-pietrukst-tirgos-gadatirgos</link>
     <description>
@@ -141,21 +156,6 @@
      <pubDate>Wed, 18 Oct 2023 06:44:08 +0000</pubDate>
  <dc:creator>Guna.Janusevska</dc:creator>
  <guid isPermaLink="false">22393 at https://www.luminor.lv</guid>
-  </item>
-  <item>
-    <title>Iedzīvotājus satrauc maksājumi par apkuri</title>
-    <link>https://www.luminor.lv/lv/jaunumi/iedzivotajus-satrauc-maksajumi-par-apkuri</link>
-    <description>
-  Luminor  &lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.luminor.lv/sites/default/files/styles/large/public/documents/images/common/maksajumi-rudeni-min.jpg?itok=XB4VlHdt&quot; width=&quot;480&quot; height=&quot;480&quot; alt=&quot;&quot; /&gt;
-  &lt;p&gt;Visbiežāk par apkures izdevumiem satraukumu pauž Rīgas un citu lielo pilsētu iedzīvotāji, kā arī Latgalē dzīvojošie, vismazāk satraucas iedzīvotāji Latvijas laukos. Lielākas bažas apkures maksājumu veikšana izraisa arī mājsaimniecībās, kurās ir tikai viens cilvēks.&lt;/p&gt;
-  &lt;a href=&quot;/lv/news&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Jaunumi&lt;/a&gt;
-    &lt;p class=&quot;text--lead&quot;&gt;       
-        Gandrīz pusi jeb 46% Latvijas iedzīvotāju līdz ar rudens sezonas sākšanos visvairāk satrauc maksājumi par siltumenerģiju. Salīdzinoši mazāku sabiedrības daļu uztrauc arī citi izdevumi, t.sk. par elektroenerģiju, degvielu, pārtiku un kredīta maksājumiem, liecina Luminor bankas veiktā iedzīvotāju aptauja*. Tās dati liecina, ka tikai 4% respondentu neuztrauc maksājumu veikšana.    &lt;/p&gt;
-    &lt;span class=&quot;separator&quot;&gt;&lt;/span&gt;
-</description>
-     <pubDate>Tue, 17 Oct 2023 08:28:34 +0000</pubDate>
- <dc:creator>Guna.Janusevska</dc:creator>
- <guid isPermaLink="false">22392 at https://www.luminor.lv</guid>
   </item>
   </channel>
 </rss>
