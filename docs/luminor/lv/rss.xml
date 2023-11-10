@@ -6,6 +6,21 @@
     <language>lv</language>
      <atom:link href="https://www.luminor.lv/lv/rss.xml" rel="self" type="application/rss+xml" />
       <item>
+    <title>Finanšu tirgus nenoteiktības laikā, bet priekšā pozitīvākas vēsmas</title>
+    <link>https://www.luminor.lv/lv/jaunumi/finansu-tirgus-nenoteiktibas-laika-bet-prieksa-pozitivakas-vesmas</link>
+    <description>
+  Luminor  &lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.luminor.lv/sites/default/files/styles/large/public/documents/images/common/tarass_newsletter-min_1_0_0.jpg?itok=e2Jn-3M6&quot; width=&quot;480&quot; height=&quot;270&quot; alt=&quot;&quot; /&gt;
+  &lt;p&gt;Oktobris akciju tirgum bija jau trešais negatīvais mēnesis pēc kārtas. Centrālo banku stingrā nostāja, negatīvās uzņēmumu prognozes un ģeopolitiskā nenoteiktība veicināja to, ka investori aktīvāk sāka pārdot savas akcijas (risk-off). Tomēr arī obligāciju tirgus turpināja lejupslīdi ASV fiskālās politikas un pieprasījuma samazināšanās no starptautiskajiem investoriem dēļ. Lai arī finanšu tirgos jau ir daudz negatīvu ziņu,  vēsturiski novembris un decembris tirgiem ir pozitīvi mēneši.&lt;/p&gt;
+  &lt;a href=&quot;/lv/news&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Jaunumi&lt;/a&gt;
+    &lt;p class=&quot;text--lead&quot;&gt;       
+        Tarass Buka, Luminor Ieguldījumu pārvaldes vadītājs    &lt;/p&gt;
+    &lt;span class=&quot;separator&quot;&gt;&lt;/span&gt;
+</description>
+     <pubDate>Fri, 10 Nov 2023 08:31:55 +0000</pubDate>
+ <dc:creator>Guna.Janusevska</dc:creator>
+ <guid isPermaLink="false">22427 at https://www.luminor.lv</guid>
+  </item>
+  <item>
     <title>Kā noskaidrot savu kredītvēsturi, un kā tā var ietekmēt nākotnes aizdevumus?</title>
     <link>https://www.luminor.lv/lv/jaunumi/ka-noskaidrot-savu-kreditvesturi-un-ka-ta-var-ietekmet-nakotnes-aizdevumus</link>
     <description>
@@ -141,21 +156,6 @@
      <pubDate>Mon, 23 Oct 2023 08:29:38 +0000</pubDate>
  <dc:creator>Guna.Janusevska</dc:creator>
  <guid isPermaLink="false">22394 at https://www.luminor.lv</guid>
-  </item>
-  <item>
-    <title>Krāpnieciski zvani, viltus īsziņas un e-pasti – biežāk izmantotie paņēmieni Latvijas iedzīvotāju apkrāpšanai </title>
-    <link>https://www.luminor.lv/lv/jaunumi/krapnieciski-zvani-viltus-iszinas-un-e-pasti-biezak-izmantotie-panemieni-latvijas</link>
-    <description>
-  Luminor  &lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.luminor.lv/sites/default/files/styles/large/public/documents/images/common/krapnieki-min_2.jpg?itok=Pq_BQZoF&quot; width=&quot;480&quot; height=&quot;480&quot; alt=&quot;&quot; /&gt;
-  &lt;p&gt;Ar krāpnieciskiem zvaniem biežāk sastapušies lielās pilsētās dzīvojošie, savukārt vismazāk – jauni cilvēki līdz 29 gadu vecumam. Tikmēr par viltus īsziņu upuriem biežāk kļuvuši tieši gados jaunāki aptaujātie. &lt;/p&gt;
-  &lt;a href=&quot;/lv/news&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Jaunumi&lt;/a&gt;
-    &lt;p class=&quot;text--lead&quot;&gt;       
-        Aptuveni divi no trim Latvijas iedzīvotājiem (71%) pēdējā gada laikā ir saņēmuši krāpniecisku zvanu, bet viens no trīs jeb 31% - viltus īsziņu, liecina Luminor bankas veiktā iedzīvotāju aptauja*. Tāpat respondenti bieži sastapušies arī ar datu – internetbankas lietotāja numura, personas kodu un karšu datu – izvilināšanas mēģinājumiem dažādu darījumu veikšanai.    &lt;/p&gt;
-    &lt;span class=&quot;separator&quot;&gt;&lt;/span&gt;
-</description>
-     <pubDate>Wed, 18 Oct 2023 06:44:08 +0000</pubDate>
- <dc:creator>Guna.Janusevska</dc:creator>
- <guid isPermaLink="false">22393 at https://www.luminor.lv</guid>
   </item>
   </channel>
 </rss>
