@@ -6,6 +6,21 @@
     <language>lv</language>
      <atom:link href="https://www.luminor.lv/lv/rss.xml" rel="self" type="application/rss+xml" />
       <item>
+    <title>Garais ceļš finanšu pasaules kāpās</title>
+    <link>https://www.luminor.lv/lv/jaunumi/garais-cels-finansu-pasaules-kapas</link>
+    <description>
+  Luminor  &lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.luminor.lv/sites/default/files/styles/large/public/documents/images/common/peteris-strautins-5-min.jpg?itok=KbsN6PaW&quot; width=&quot;480&quot; height=&quot;480&quot; alt=&quot;&quot; /&gt;
+  &lt;p&gt;Visā mūsu dzīves gaitā labklājību ietekmē notikumi, kurus iepriekš nevarēja paredzēt. Piemēram, mūsu senčiem liels risks bija laika apstākļi. Spēja neprognozējamā vidē izaudzēt ražu bija spēle uz augstām likmēm, neveiksme varēja nozīmēt ilgstošu izsalkumu vai kaut ko ļaunāku. Viņiem toties nebija jāsatraucas par Euribor likmju svārstībām.&lt;/p&gt;
+  &lt;a href=&quot;/lv/news&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Jaunumi&lt;/a&gt;
+    &lt;p class=&quot;text--lead&quot;&gt;       
+        Pēteris Strautiņš, Luminor bankas ekonomists    &lt;/p&gt;
+    &lt;span class=&quot;separator&quot;&gt;&lt;/span&gt;
+</description>
+     <pubDate>Thu, 16 Nov 2023 07:24:59 +0000</pubDate>
+ <dc:creator>Guna.Janusevska</dc:creator>
+ <guid isPermaLink="false">22443 at https://www.luminor.lv</guid>
+  </item>
+  <item>
     <title>Aug obligāciju ienesīgums: ko svarīgi zināt pircējam?</title>
     <link>https://www.luminor.lv/lv/jaunumi/aug-obligaciju-ienesigums-ko-svarigi-zinat-pircejam</link>
     <description>
@@ -137,21 +152,6 @@
      <pubDate>Wed, 01 Nov 2023 13:32:59 +0000</pubDate>
  <dc:creator>Guna.Janusevska</dc:creator>
  <guid isPermaLink="false">22414 at https://www.luminor.lv</guid>
-  </item>
-  <item>
-    <title>Jauns krāpšanas veids: lūdz “atmaskot” viltus bankas darbiniekus, nododot naudu drošībā</title>
-    <link>https://www.luminor.lv/lv/jaunumi/jauns-krapsanas-veids-ludz-atmaskot-viltus-bankas-darbiniekus-nododot-naudu-drosiba</link>
-    <description>
-  Luminor  &lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.luminor.lv/sites/default/files/styles/large/public/documents/images/common/viltus-zvani-min.jpg?itok=dcIv0jca&quot; width=&quot;480&quot; height=&quot;480&quot; alt=&quot;&quot; /&gt;
-  &lt;p&gt;Pēdējā mēneša laikā tiek īstenots jauns krāpšanas veids, kur iedzīvotāji saņem telefona zvanus it kā bankas vai policijas vārdā, kuru laikā cilvēki tiek informēti, ka viņu bankas kontā notiek aizdomīgas darbības, kuras it kā tiek veiktas ar negodīga bankas darbinieka palīdzību.&lt;/p&gt;
-  &lt;a href=&quot;/lv/news&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Jaunumi&lt;/a&gt;
-    &lt;p class=&quot;text--lead&quot;&gt;       
-        Aktivizējies jauns krāpšanas veids, kurā iedzīvotājiem tiek zvanīts it kā bankas vai policijas vārdā un apgalvots, ka viņu kontos notiek aizdomīgas darbības negodprātīgu bankas darbinieku dēļ ar aicinājumu noņemt skaidru naudu, lai to pasargātu no izkrāpšanas. Luminor banka aicina iedzīvotājus rūpīgi izvērtēt saņemtos zvanus un atgādina, ka ne banka, ne Valsts policija nekad nepieprasa iedzīvotājiem nodot šo iestāžu rīcībā skaidras naudas līdzekļus vai ņemt kredītu, vai izpaust savus datus.    &lt;/p&gt;
-    &lt;span class=&quot;separator&quot;&gt;&lt;/span&gt;
-</description>
-     <pubDate>Mon, 30 Oct 2023 08:00:46 +0000</pubDate>
- <dc:creator>Guna.Janusevska</dc:creator>
- <guid isPermaLink="false">22407 at https://www.luminor.lv</guid>
   </item>
   </channel>
 </rss>
