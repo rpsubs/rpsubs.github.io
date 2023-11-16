@@ -6,6 +6,21 @@
     <language>lv</language>
      <atom:link href="https://www.luminor.lv/lv/rss.xml" rel="self" type="application/rss+xml" />
       <item>
+    <title>Mūsu lētticība un zināšanu trūkums – krāpnieku trumpis</title>
+    <link>https://www.luminor.lv/lv/jaunumi/musu-letticiba-un-zinasanu-trukums-krapnieku-trumpis</link>
+    <description>
+  Luminor  &lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.luminor.lv/sites/default/files/styles/large/public/documents/images/common/kerli-vares5-min.jpg?itok=81lGbpia&quot; width=&quot;480&quot; height=&quot;480&quot; alt=&quot;&quot; /&gt;
+  &lt;p&gt;Finanšu krāpniecība ir notikusi visos laikos, tomēr šobrīd, kad galvenokārt lietojam bezskaidru naudu, ir mainījušās krāpnieku metodes, tāpēc pretī jāliek atbilstoši drošības pasākumi. Diemžēl ir lietas, kas nemainās — joprojām galvenais krāpnieku trumpis ir mūsu lētticība un pārliecība, ka “ar mani jau tas nenotiks”, kā arī vēlme ticēt saņemtai informācijai bez papildu pārbaudes par tās patiesumu. Turklāt kibernoziedznieki izmanto arvien sarežģītākas un mainīgas taktikas, līdz ar to arī zināšanu trūkums par jauniem krāpniecības veidiem var izmaksāt ļoti dārgi. &lt;/p&gt;
+  &lt;a href=&quot;/lv/news&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Jaunumi&lt;/a&gt;
+    &lt;p class=&quot;text--lead&quot;&gt;       
+        Kerli Vares, Luminor bankas vadītāja Latvijā    &lt;/p&gt;
+    &lt;span class=&quot;separator&quot;&gt;&lt;/span&gt;
+</description>
+     <pubDate>Thu, 16 Nov 2023 09:35:58 +0000</pubDate>
+ <dc:creator>Guna.Janusevska</dc:creator>
+ <guid isPermaLink="false">22450 at https://www.luminor.lv</guid>
+  </item>
+  <item>
     <title>Garais ceļš finanšu pasaules kāpās</title>
     <link>https://www.luminor.lv/lv/jaunumi/garais-cels-finansu-pasaules-kapas</link>
     <description>
@@ -137,21 +152,6 @@
      <pubDate>Thu, 02 Nov 2023 08:00:32 +0000</pubDate>
  <dc:creator>Guna.Janusevska</dc:creator>
  <guid isPermaLink="false">22416 at https://www.luminor.lv</guid>
-  </item>
-  <item>
-    <title>Luminor bankas trešā ceturkšņa darbības rezultāti</title>
-    <link>https://www.luminor.lv/lv/jaunumi/luminor-bankas-tresa-ceturksna-darbibas-rezultati</link>
-    <description>
-  Luminor  &lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.luminor.lv/sites/default/files/styles/large/public/documents/images/common/kerli-vares-2-min.png?itok=kRx5VnTI&quot; width=&quot;480&quot; height=&quot;480&quot; alt=&quot;Kerli Vares, Luminor bankas vadītāja Latvijā&quot; /&gt;
-  &lt;p&gt;Šī gada 3. ceturksnī Luminor turpināja ieguldīt savā nākotnes kapacitātē un iespējās, īpaši koncentrējoties uz atbalstu klientiem un stratēģijas īstenošanu, lai iegūtu no Baltijas reģiona spēcīgajām ilgtermiņa izaugsmes perspektīvām.&lt;/p&gt;
-  &lt;a href=&quot;/lv/news&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Jaunumi&lt;/a&gt;
-    &lt;p class=&quot;text--lead&quot;&gt;       
-        Šī gada trešajā ceturksnī Luminor saglabāja spēcīgu likviditāti un kapitāla pozīcijas, kā arī veica ieguldījumus turpmākā attīstībā, uzlabojot efektivitāti. Luminor bankas darbība apliecina stabilu kredītu kvalitāti. Ienākumus nenesošo aizdevumu apjoms ir 1,3 % apmērā no bruto aizdevumiem.    &lt;/p&gt;
-    &lt;span class=&quot;separator&quot;&gt;&lt;/span&gt;
-</description>
-     <pubDate>Wed, 01 Nov 2023 13:32:59 +0000</pubDate>
- <dc:creator>Guna.Janusevska</dc:creator>
- <guid isPermaLink="false">22414 at https://www.luminor.lv</guid>
   </item>
   </channel>
 </rss>
