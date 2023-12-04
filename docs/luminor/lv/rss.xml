@@ -6,6 +6,21 @@
     <language>lv</language>
      <atom:link href="https://www.luminor.lv/lv/rss.xml" rel="self" type="application/rss+xml" />
       <item>
+    <title>Jaunas ceļojumu apdrošināšanas priekšrocības Luminor karšu īpašniekiem</title>
+    <link>https://www.luminor.lv/lv/jaunumi/jaunas-celojumu-apdrosinasanas-prieksrocibas-luminor-karsu-ipasniekiem</link>
+    <description>
+  Luminor  &lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.luminor.lv/sites/default/files/styles/large/public/documents/images/common/ski_1.jpg?itok=_siXMyxX&quot; width=&quot;480&quot; height=&quot;480&quot; alt=&quot;&quot; /&gt;
+  &lt;p&gt;Aicinām Luminor Black, Luminor Visa Infinite un Visa Business karšu īpašniekus iepazīties ar galvenajiem ieguvumiem: &lt;/p&gt;
+  &lt;a href=&quot;/lv/news&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Jaunumi&lt;/a&gt;
+    &lt;p class=&quot;text--lead&quot;&gt;       
+        2024. gada 1. janvārī stāsies spēkā jauni ceļojumu apdrošināšanas noteikumi.    &lt;/p&gt;
+    &lt;span class=&quot;separator&quot;&gt;&lt;/span&gt;
+</description>
+     <pubDate>Mon, 04 Dec 2023 07:44:59 +0000</pubDate>
+ <dc:creator>Guna.Janusevska</dc:creator>
+ <guid isPermaLink="false">22473 at https://www.luminor.lv</guid>
+  </item>
+  <item>
     <title>Fiksēta vai mainīga procentu likme: kāda atšķirība?</title>
     <link>https://www.luminor.lv/lv/jaunumi/fikseta-vai-mainiga-procentu-likme-kada-atskiriba</link>
     <description>
@@ -152,21 +167,6 @@
      <pubDate>Thu, 16 Nov 2023 09:35:58 +0000</pubDate>
  <dc:creator>Guna.Janusevska</dc:creator>
  <guid isPermaLink="false">22450 at https://www.luminor.lv</guid>
-  </item>
-  <item>
-    <title>Garais ceļš finanšu pasaules kāpās</title>
-    <link>https://www.luminor.lv/lv/jaunumi/garais-cels-finansu-pasaules-kapas</link>
-    <description>
-  Luminor  &lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.luminor.lv/sites/default/files/styles/large/public/documents/images/common/peteris-strautins-5-min.jpg?itok=KbsN6PaW&quot; width=&quot;480&quot; height=&quot;480&quot; alt=&quot;&quot; /&gt;
-  &lt;p&gt;Visā mūsu dzīves gaitā labklājību ietekmē notikumi, kurus iepriekš nevarēja paredzēt. Piemēram, mūsu senčiem liels risks bija laika apstākļi. Spēja neprognozējamā vidē izaudzēt ražu bija spēle uz augstām likmēm, neveiksme varēja nozīmēt ilgstošu izsalkumu vai kaut ko ļaunāku. Viņiem toties nebija jāsatraucas par Euribor likmju svārstībām.&lt;/p&gt;
-  &lt;a href=&quot;/lv/news&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Jaunumi&lt;/a&gt;
-    &lt;p class=&quot;text--lead&quot;&gt;       
-        Pēteris Strautiņš, Luminor bankas ekonomists    &lt;/p&gt;
-    &lt;span class=&quot;separator&quot;&gt;&lt;/span&gt;
-</description>
-     <pubDate>Thu, 16 Nov 2023 07:24:59 +0000</pubDate>
- <dc:creator>Guna.Janusevska</dc:creator>
- <guid isPermaLink="false">22443 at https://www.luminor.lv</guid>
   </item>
   </channel>
 </rss>
