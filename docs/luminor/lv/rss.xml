@@ -6,6 +6,21 @@
     <language>lv</language>
      <atom:link href="https://www.luminor.lv/lv/rss.xml" rel="self" type="application/rss+xml" />
       <item>
+    <title>Inflācija ir sakauta</title>
+    <link>https://www.luminor.lv/lv/jaunumi/inflacija-ir-sakauta</link>
+    <description>
+  Luminor  &lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.luminor.lv/sites/default/files/styles/large/public/documents/images/common/peteris-strautins-10-min.jpg?itok=5T0foi2H&quot; width=&quot;480&quot; height=&quot;480&quot; alt=&quot;&quot; /&gt;
+  &lt;p&gt;Aizvadīto divu gadu laikā inflācija bija lielākā ekonomiskā problēma. Tā ir atrisināta. Novembrī cenas gada laikā pieauga par procentu. Ja izskaita pārtiku, visu pārējo preču un pakalpojumu vidējais cenu līmenis nemainījās. Mājokļu uzturēšanas ietekme bija izteikti negatīva (-1,8 pp), tāda tā bija arī transportam (-0,7 pp), bet cenas auga alkoholam un tabakai, veselības aprūpei – katram 0,5 pp ietekme. &lt;/p&gt;
+  &lt;a href=&quot;/lv/news&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Jaunumi&lt;/a&gt;
+    &lt;p class=&quot;text--lead&quot;&gt;       
+        Par patēriņa cenu izmaiņām 2023. gada novembrī    &lt;/p&gt;
+    &lt;span class=&quot;separator&quot;&gt;&lt;/span&gt;
+</description>
+     <pubDate>Fri, 08 Dec 2023 14:41:31 +0000</pubDate>
+ <dc:creator>Guna.Janusevska</dc:creator>
+ <guid isPermaLink="false">22481 at https://www.luminor.lv</guid>
+  </item>
+  <item>
     <title>Novembris – tirgu atgūšanās mēnesis</title>
     <link>https://www.luminor.lv/lv/jaunumi/novembris-tirgu-atgusanas-menesis</link>
     <description>
@@ -140,23 +155,6 @@
      <pubDate>Tue, 28 Nov 2023 09:07:29 +0000</pubDate>
  <dc:creator>Guna.Janusevska</dc:creator>
  <guid isPermaLink="false">22468 at https://www.luminor.lv</guid>
-  </item>
-  <item>
-    <title>EIB piešķir Luminor bankai 115 miljonu eiro finansējumu Baltijas uzņēmumu atbalstam</title>
-    <link>https://www.luminor.lv/lv/jaunumi/eib-pieskir-luminor-bankai-115-miljonu-eiro-finansejumu-baltijas-uznemumu-atbalstam</link>
-    <description>
-  Luminor  &lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.luminor.lv/sites/default/files/styles/large/public/documents/images/common/luminor_eib_photo_erik_peinar-min.jpg?itok=D31LwwCH&quot; width=&quot;480&quot; height=&quot;480&quot; alt=&quot;&quot; /&gt;
-  &lt;ul class=&quot;square_burgundy-list&quot;&gt;&lt;li class=&quot;square_burgundy-list__item&quot;&gt;Finansējuma mērķis ir uzlabot pieejamību līdzekļiem Baltijas reģionā, īpaši pārejai uz zaļo ekonomiku.&lt;/li&gt;
-&lt;li class=&quot;square_burgundy-list__item&quot;&gt;Sadarbības ietvaros uzņēmumiem būs pieejams finansējums vairāk nekā 332 miljonu eiro apmērā.&lt;/li&gt;
-&lt;li class=&quot;square_burgundy-list__item&quot;&gt;Finansējums būs pieejams maziem un vidējiem uzņēmumiem un uzņēmumiem ar vidēji lielu kapitālu.&lt;/li&gt;&lt;/ul&gt;
-  &lt;a href=&quot;/lv/news&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Jaunumi&lt;/a&gt;
-    &lt;p class=&quot;text--lead&quot;&gt;       
-        Eiropas Investīciju banka (EIB) un Luminor Bank AS šodien parakstīja līgumu par 115 miljonu eiro finansējumu, lai papildus veicinātu mazo un vidējo uzņēmumu kreditēšanu Latvijā, Igaunijā un Lietuvā. EIB finansējuma apvienošana ar Luminor resursiem rada iespēju uzņēmumiem saņemt atbalstu ar labvēlīgākiem nosacījumiem vairāk nekā 332 miljonu eiro apmērā visā Baltijā.    &lt;/p&gt;
-    &lt;span class=&quot;separator&quot;&gt;&lt;/span&gt;
-</description>
-     <pubDate>Mon, 27 Nov 2023 11:40:33 +0000</pubDate>
- <dc:creator>Guna.Janusevska</dc:creator>
- <guid isPermaLink="false">22466 at https://www.luminor.lv</guid>
   </item>
   </channel>
 </rss>
