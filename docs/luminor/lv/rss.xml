@@ -6,6 +6,22 @@
     <language>lv</language>
      <atom:link href="https://www.luminor.lv/lv/rss.xml" rel="self" type="application/rss+xml" />
       <item>
+    <title>30 % iedzīvotāju Ziemassvētkos plāno ziedot naudu vai mantas labdarībai</title>
+    <link>https://www.luminor.lv/lv/jaunumi/30-iedzivotaju-ziemassvetkos-plano-ziedot-naudu-vai-mantas-labdaribai</link>
+    <description>
+  Luminor
+  &lt;p&gt;Saskaņā ar Luminor aptaujas datiem šogad Ziemassvētkos naudu plāno ziedot 17 % iedzīvotāju, 13 % ziedos mantas, bet 2 % veiks brīvprātīgo darbu. Aktīvākas ziedotājas ir sievietes – kamēr naudu plāno ziedot 19 %, bet mantas 17 % sieviešu, tikmēr vīriešu vidū šis īpatsvars ir attiecīgi 15 % un 9 %. Interesanti, ka vairāk ziedotāju ir to cilvēku vidū, kam ir bērni.&lt;/p&gt;
+&lt;p&gt;Tikmēr labdarības aktivitātēs iesaistīties neplāno 28 % aptaujāto, 19 % gribētu iesaistīties, ja viņiem būtu pieejami brīvi līdzekļi, bet 16 % nav par to domājuši.&lt;/p&gt;
+  &lt;a href=&quot;/lv/news&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Jaunumi&lt;/a&gt;
+    &lt;p class=&quot;text--lead&quot;&gt;       
+        Šogad Ziemassvētkos gandrīz trešdaļa jeb 30 % Latvijas iedzīvotāju plāno ziedot labdarībai naudu vai mantas, vienlaikus katrs piektais labprāt gribētu veikt kādu ziedojumu, ja būtu pieejami brīvi līdzekļi, noskaidrots Luminor bankas aptaujā*. Gada aktīvākais labdarības laiks jau ir sācies, un iedzīvotājiem ir daudz iespēju izvēlēties, kam palīdzēt – piemēram, grūtībās nonākušiem jauniešiem, bērniem ar veselības problēmām, Ukrainas cilvēkiem, kā arī citām sabiedrības grupām.    &lt;/p&gt;
+    &lt;span class=&quot;separator&quot;&gt;&lt;/span&gt;
+</description>
+     <pubDate>Sat, 16 Dec 2023 07:05:01 +0000</pubDate>
+ <dc:creator>kaja.hansing</dc:creator>
+ <guid isPermaLink="false">22500 at https://www.luminor.lv</guid>
+  </item>
+  <item>
     <title>Noslēdzies Luminor atbalstītais projekts “Ģimenei draudzīgākā pašvaldība Latvijā 2023”</title>
     <link>https://www.luminor.lv/lv/jaunumi/nosledzies-luminor-atbalstitais-projekts-gimenei-draudzigaka-pasvaldiba-latvija-2023</link>
     <description>
@@ -143,21 +159,6 @@
      <pubDate>Fri, 08 Dec 2023 08:32:45 +0000</pubDate>
  <dc:creator>Guna.Janusevska</dc:creator>
  <guid isPermaLink="false">22479 at https://www.luminor.lv</guid>
-  </item>
-  <item>
-    <title>Luminor procentu likmju mijmaiņas darījumu portfeļa nominālvērtība pārsniedz 3 miljardus eiro</title>
-    <link>https://www.luminor.lv/lv/jaunumi/luminor-procentu-likmju-mijmainas-darijumu-portfela-nominalvertiba-parsniedz-3-miljardus</link>
-    <description>
-  Luminor  &lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.luminor.lv/sites/default/files/styles/large/public/documents/images/common/rs_06892-min_0.png?itok=8FxZJS-h&quot; width=&quot;480&quot; height=&quot;480&quot; alt=&quot;&quot; /&gt;
-  &lt;p&gt;Bankas atvasināto finanšu instrumentu portfeli galvenokārt veido procentu likmju mijmaiņas darījumi, kas noslēgti, lai pārvaldītu bilances procentu likmju risku.&lt;/p&gt;
-  &lt;a href=&quot;/lv/news&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Jaunumi&lt;/a&gt;
-    &lt;p class=&quot;text--lead&quot;&gt;       
-        Luminor bankas procentu likmju mijmaiņas darījumu portfeļa vērtība oktobra sākumā bija 3,6 miljardi eiro. Tādējādi, pārsniedzot 3 miljardu eiro slieksni, Luminor banka saskaņā ar Eiropas Komisijas regulu kļuva par daļu no centralizētās atvasināto instrumentu tīrvērtes jeb klīringa sistēmas. Banka izmanto centralizētos klīringa pakalpojumus ar Vācijā bāzētas iestādes Eurex Clearing starpniecību, bet par klīringa aģentu izmanto Nīderlandē bāzēto ABN Amro Bank. Luminor ir vienīgā banka Baltijā, kas darbojas centralizētajā atvasināto instrumentu klīringa sistēmā.    &lt;/p&gt;
-    &lt;span class=&quot;separator&quot;&gt;&lt;/span&gt;
-</description>
-     <pubDate>Thu, 07 Dec 2023 13:35:42 +0000</pubDate>
- <dc:creator>Guna.Janusevska</dc:creator>
- <guid isPermaLink="false">22478 at https://www.luminor.lv</guid>
   </item>
   </channel>
 </rss>
