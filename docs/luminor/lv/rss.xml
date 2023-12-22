@@ -6,6 +6,37 @@
     <language>lv</language>
      <atom:link href="https://www.luminor.lv/lv/rss.xml" rel="self" type="application/rss+xml" />
       <item>
+    <title>Darba laiks un maksājumu apstrāde svētku brīvdienās</title>
+    <link>https://www.luminor.lv/lv/jaunumi/darba-laiks-un-maksajumu-apstrade-svetku-brivdienas-3</link>
+    <description>
+  Luminor  &lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.luminor.lv/sites/default/files/styles/large/public/documents/images/common/ziema-min.jpg?itok=YPQ6KG5D&quot; width=&quot;480&quot; height=&quot;480&quot; alt=&quot;&quot; /&gt;
+  &lt;h3&gt;Izmaiņas Luminor klientu apkalpošanas centru darba laikos&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Liepāja:&lt;/strong&gt;&lt;br /&gt;
+25. decembris – brīvs&lt;br /&gt;
+26. decembris – brīvs&lt;br /&gt;
+1. janvāris - brīvs&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Skanste:&lt;/strong&gt;&lt;br /&gt;
+25. decembris – brīvs&lt;br /&gt;
+26. decembris – brīvs&lt;br /&gt;
+1. janvāris - brīvs&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tērbata:&lt;/strong&gt;&lt;br /&gt;
+25. decembris – brīvs&lt;br /&gt;
+26. decembris – brīvs&lt;br /&gt;
+1. janvāris - brīvs&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mārupe:&lt;/strong&gt;&lt;br /&gt;
+25. decembris – brīvs&lt;br /&gt;
+26. decembris – brīvs&lt;br /&gt;
+1. janvāris – brīvs&lt;/p&gt;
+  &lt;a href=&quot;/lv/news&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Jaunumi&lt;/a&gt;
+    &lt;p class=&quot;text--lead&quot;&gt;       
+        Aicinām iepazīties ar plānotajām izmaiņām Luminor klientu apkalpošanas centru darba laikos un maksājumu veikšanā Ziemassvētku un Jaunā gada brīvdienās.    &lt;/p&gt;
+    &lt;span class=&quot;separator&quot;&gt;&lt;/span&gt;
+</description>
+     <pubDate>Fri, 22 Dec 2023 15:08:27 +0000</pubDate>
+ <dc:creator>Guna.Janusevska</dc:creator>
+ <guid isPermaLink="false">22511 at https://www.luminor.lv</guid>
+  </item>
+  <item>
     <title>Puse Latvijas iedzīvotāju inflācijas dēļ šogad sākuši dzīvot taupīgāk</title>
     <link>https://www.luminor.lv/lv/jaunumi/puse-latvijas-iedzivotaju-inflacijas-del-sogad-sakusi-dzivot-taupigak</link>
     <description>
@@ -146,21 +177,6 @@
      <pubDate>Wed, 13 Dec 2023 09:11:45 +0000</pubDate>
  <dc:creator>Guna.Janusevska</dc:creator>
  <guid isPermaLink="false">22492 at https://www.luminor.lv</guid>
-  </item>
-  <item>
-    <title>Aptauja: katrs trešais uzņēmējs 2024. gadā plāno paplašināt savu biznesu</title>
-    <link>https://www.luminor.lv/lv/jaunumi/aptauja-katrs-tresais-uznemejs-2024-gada-plano-paplasinat-savu-biznesu</link>
-    <description>
-  Luminor  &lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.luminor.lv/sites/default/files/styles/large/public/documents/images/common/uznemeji-min.jpg?itok=IURxHtYl&quot; width=&quot;480&quot; height=&quot;480&quot; alt=&quot;&quot; /&gt;
-  &lt;p&gt;Aptaujājot Latvijas mazo un vidējo uzņēmumu (MVU) vadītājus, noskaidrots, ka vairāk nekā trešdaļa jeb 34 % uzņēmumu nākamgad plāno paplašināties, turklāt šajā jautājumā Latvijas un Lietuvas uzņēmēji ir pozitīvāk noskaņoti nekā Igaunijas, kur par paplašināšanos domā tikai 22 %. &lt;/p&gt;
-  &lt;a href=&quot;/lv/news&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Jaunumi&lt;/a&gt;
-    &lt;p class=&quot;text--lead&quot;&gt;       
-        Trešdaļa Latvijas mazo un vidējo uzņēmumu 2024. gadā plāno paplašināties, un vairums sagaida, ka viņu pārdošanas apjomi pieaugs vai saglabāsies nemainīgi, salīdzinot ar 2023. gadu, liecina Luminor bankas aptaujas* rezultāti. Baltijas valstu vidū Latvijas uzņēmēji ir optimistiskākie par pārdošanas pieaugumu nākamgad, savukārt Igaunijā – pesimistiskākie.    &lt;/p&gt;
-    &lt;span class=&quot;separator&quot;&gt;&lt;/span&gt;
-</description>
-     <pubDate>Wed, 13 Dec 2023 08:59:59 +0000</pubDate>
- <dc:creator>Guna.Janusevska</dc:creator>
- <guid isPermaLink="false">22491 at https://www.luminor.lv</guid>
   </item>
   </channel>
 </rss>
