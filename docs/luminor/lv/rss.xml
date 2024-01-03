@@ -6,6 +6,21 @@
     <language>lv</language>
      <atom:link href="https://www.luminor.lv/lv/rss.xml" rel="self" type="application/rss+xml" />
       <item>
+    <title>SWIFT pāreja uz ISO 20022: pārrobežu maksājumi un bankas izraksti atbilstīgi jaunajam standartam</title>
+    <link>https://www.luminor.lv/lv/SWIFT-migre-uz-ISO20022</link>
+    <description>
+  Luminor  &lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.luminor.lv/sites/default/files/styles/large/public/documents/images/common/swift-min.jpg?itok=reKRrVPa&quot; width=&quot;480&quot; height=&quot;480&quot; alt=&quot;&quot; /&gt;
+  &lt;p&gt;SWIFT plāno 2025. gada novembrī pārtraukt MT standarta izmantošanu izrakstiem un atskaitēm MT94X formātā un maksājuma pieprasījumiem MT101 formātā, to aizstājot ar camt.053/camt.052 – izrakstiem un atskaitēm, savukārt pain.001m – maksājuma pieprasījumiem. SWIFT joprojām atbalstīs MT standartu līdz 2025. gada novembrim, savukārt pēc tam tas tiks aizstāts ar ISO 20022 standartu un jaunie camt.053/camt.052/pain.001 formāti kļūs obligāti visiem SWIFT dalībniekiem.&lt;/p&gt;
+  &lt;a href=&quot;/lv/news&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Jaunumi&lt;/a&gt;
+    &lt;p class=&quot;text--lead&quot;&gt;       
+        Vēršam korporatīvo klientu uzmanību, ka SWIFT ziņojumiem maksājumu jomā ir uzsākta globāla pāreja uz jauno ziņojumapmaiņas valodu, aizstājot līdzšinējo MT standartu ar ISO 20022 standartu. Izmaiņas skar tos uzņēmumus, kuri saņem vai sūta kontu izrakstus vai atskaites, izmantojot SWIFT pakalpojumus.    &lt;/p&gt;
+    &lt;span class=&quot;separator&quot;&gt;&lt;/span&gt;
+</description>
+     <pubDate>Wed, 03 Jan 2024 07:37:55 +0000</pubDate>
+ <dc:creator>Guna.Janusevska</dc:creator>
+ <guid isPermaLink="false">22515 at https://www.luminor.lv</guid>
+  </item>
+  <item>
     <title>38% iedzīvotāju sagaida, ka 2024. gads būs finansiāli labāks</title>
     <link>https://www.luminor.lv/lv/jaunumi/38-iedzivotaju-sagaida-ka-2024-gads-bus-finansiali-labaks</link>
     <description>
@@ -160,22 +175,6 @@
      <pubDate>Fri, 15 Dec 2023 15:30:51 +0000</pubDate>
  <dc:creator>arvidas.bendorius</dc:creator>
  <guid isPermaLink="false">22499 at https://www.luminor.lv</guid>
-  </item>
-  <item>
-    <title>Luminor bankai valdes priekšsēdētāja vietnieka amatā pievienojas Osi Leikola</title>
-    <link>https://www.luminor.lv/lv/jaunumi/luminor-bankai-valdes-priekssedetaja-vietnieka-amata-pievienojas-osi-leikola</link>
-    <description>
-  Luminor  &lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.luminor.lv/sites/default/files/styles/large/public/documents/images/common/ossi_leikola-min.jpg?itok=v5zckeYM&quot; width=&quot;480&quot; height=&quot;320&quot; alt=&quot;&quot; /&gt;
-  &lt;p&gt;Valdes priekšsēdētāja vietnieka amatā Osi kopā ar valdes priekšsēdētāju Peteru Boseku un valdi strādās pie dažādām stratēģiskajām iniciatīvām. Viņš vadīs struktūrvienību transformāciju procesus, ārējo trešo pušu attiecību pārvaldību un nodrošinās darbības izcilību bankā, turpinot veidot Luminor unikālo kultūru.&lt;/p&gt;
-&lt;p&gt;Osi Leikola uz Luminor pārnāk no Nordea bankas, kur viņš ieņēma Operacionālās darbības vadītāja amatu. Viņš labi pārzina Baltijas reģionu, jo iepriekš bija arī Nordea vadītājs Polijā un Baltijas valstīs.&lt;/p&gt;
-  &lt;a href=&quot;/lv/news&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Jaunumi&lt;/a&gt;
-    &lt;p class=&quot;text--lead&quot;&gt;       
-        Luminor bankas valdes priekšsēdētāja vietnieka un valdes locekļa amatā šodien ir pievienojies Osi Leikola. Ar savu ievērojamo pieredzi operacionālajā darbībā un vadībā viņš vēl vairāk stiprinās bankas vadības komandu.    &lt;/p&gt;
-    &lt;span class=&quot;separator&quot;&gt;&lt;/span&gt;
-</description>
-     <pubDate>Fri, 15 Dec 2023 10:57:37 +0000</pubDate>
- <dc:creator>arvidas.bendorius</dc:creator>
- <guid isPermaLink="false">22498 at https://www.luminor.lv</guid>
   </item>
   </channel>
 </rss>
