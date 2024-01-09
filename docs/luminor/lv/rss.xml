@@ -6,6 +6,21 @@
     <language>lv</language>
      <atom:link href="https://www.luminor.lv/lv/rss.xml" rel="self" type="application/rss+xml" />
       <item>
+    <title>Uzņēmumi šogad optimistiskāk raugās uz inflāciju un cenām, bet saskata jaunus izaicinājumus darbavietu saglabāšanā</title>
+    <link>https://www.luminor.lv/lv/jaunumi/uznemumi-sogad-optimistiskak-raugas-uz-inflaciju-un-cenam-bet-saskata-jaunus-izaicinajumus</link>
+    <description>
+  Luminor  &lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.luminor.lv/sites/default/files/styles/large/public/documents/images/common/uznemejdarbiba-2024-min.jpg?itok=KU1pa9Iy&quot; width=&quot;480&quot; height=&quot;480&quot; alt=&quot;&quot; /&gt;
+  &lt;p&gt;Jautāti, kurām jomām uzņēmumiem būs visvairāk jāpielāgojas 2024. gadā, Latvijas mazie un vidējie uzņēmumi šogad jau salīdzinoši optimistiskāk raugās uz inflācijas un cenu kāpuma ietekmi, jo pērn pavasarī inflāciju kā vienu no galvenajām satraukuma jomām norādīja 54% aptaujāto.&lt;/p&gt;
+  &lt;a href=&quot;/lv/news&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Jaunumi&lt;/a&gt;
+    &lt;p class=&quot;text--lead&quot;&gt;       
+        Lai arī 41% Latvijas mazo un vidējo uzņēmumu (MVU) šogad paredz, ka tiem būs jāpielāgojas inflācijai, paaugstinātām izmaksām, kā arī enerģijas un degvielas cenu kāpumam, vairāk nekā ceturtā daļa jeb 27% – pieaugums pret pagājušo gadu – uzskata, ka uzmanība šajā gadā būs jāpievērš darbavietu saglabāšanai, liecina Luminor bankas uzņēmumu aptaujas* rezultāti.    &lt;/p&gt;
+    &lt;span class=&quot;separator&quot;&gt;&lt;/span&gt;
+</description>
+     <pubDate>Tue, 09 Jan 2024 08:29:13 +0000</pubDate>
+ <dc:creator>Guna.Janusevska</dc:creator>
+ <guid isPermaLink="false">22529 at https://www.luminor.lv</guid>
+  </item>
+  <item>
     <title>Svētku dāvanu laiks aizvadīts arī finanšu tirgos</title>
     <link>https://www.luminor.lv/lv/jaunumi/svetku-davanu-laiks-aizvadits-ari-finansu-tirgos</link>
     <description>
@@ -159,21 +174,6 @@
      <pubDate>Tue, 19 Dec 2023 12:12:50 +0000</pubDate>
  <dc:creator>Guna.Janusevska</dc:creator>
  <guid isPermaLink="false">22504 at https://www.luminor.lv</guid>
-  </item>
-  <item>
-    <title>Aptauja: gandrīz puse Latvijas iedzīvotāju Ziemassvētku dāvanā vēlētos saņemt naudu</title>
-    <link>https://www.luminor.lv/lv/jaunumi/aptauja-gandriz-puse-latvijas-iedzivotaju-ziemassvetku-davana-veletos-sanemt-naudu</link>
-    <description>
-  Luminor  &lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.luminor.lv/sites/default/files/styles/large/public/documents/images/common/davana-min.jpg?itok=zVFkAQYe&quot; width=&quot;480&quot; height=&quot;479&quot; alt=&quot;&quot; /&gt;
-  &lt;p&gt;Saskaņā ar aptauju jaunāki cilvēki labprātāk svētkos saņemtu dāvanā naudu nekā vecāka paaudze – vecuma grupā no 18 līdz 29 gadiem naudu gribētu saņemt 61 %, īpaši studenti, bet 60-74 gadus vecu cilvēku vidū to vēlētos vien 42%. &lt;/p&gt;
-  &lt;a href=&quot;/lv/news&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Jaunumi&lt;/a&gt;
-    &lt;p class=&quot;text--lead&quot;&gt;       
-        Luminor bankas aptauja atklāj, ka 47% Latvijas iedzīvotāju vēlētos Ziemassvētku dāvanā saņemt naudu.    &lt;/p&gt;
-    &lt;span class=&quot;separator&quot;&gt;&lt;/span&gt;
-</description>
-     <pubDate>Tue, 19 Dec 2023 08:36:01 +0000</pubDate>
- <dc:creator>Guna.Janusevska</dc:creator>
- <guid isPermaLink="false">22503 at https://www.luminor.lv</guid>
   </item>
   </channel>
 </rss>
