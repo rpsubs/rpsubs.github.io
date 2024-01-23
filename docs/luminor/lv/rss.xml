@@ -6,6 +6,21 @@
     <language>lv</language>
      <atom:link href="https://www.luminor.lv/lv/rss.xml" rel="self" type="application/rss+xml" />
       <item>
+    <title>Tikai ceturtdaļa Latvijas iedzīvotāju ir pilnībā apmierināti ar savu mājokli; vēlētos plašāku un modernāku dzīvesvietu</title>
+    <link>https://www.luminor.lv/lv/jaunumi/tikai-ceturtdala-latvijas-iedzivotaju-ir-pilniba-apmierinati-ar-savu-majokli-veletos-plasaku</link>
+    <description>
+  Luminor  &lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.luminor.lv/sites/default/files/styles/large/public/documents/images/common/majoklis-min.jpg?itok=Kokc6Mcp&quot; width=&quot;480&quot; height=&quot;480&quot; alt=&quot;&quot; /&gt;
+  &lt;p&gt;23% aptaujāto norādīja, ka ir pilnībā apmierināti ar savu mājokli, bet 59% ir drīzāk apmierināti. Tikmēr 11% ir drīzāk neapmierināti, bet 3% ir ļoti neapmierināti ar savu dzīvesvietu. &lt;/p&gt;
+  &lt;a href=&quot;/lv/news&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Jaunumi&lt;/a&gt;
+    &lt;p class=&quot;text--lead&quot;&gt;       
+        Vairums Latvijas iedzīvotāju ir vismaz daļēji apmierināti ar savu esošo mājokli, taču vienlaikus 7 no 10 iedzīvotājiem vēlētos kādus uzlabojumus savā dzīvesvietā, liecina Luminor bankas aptaujas rezultāti. Visbiežāk cilvēkiem savos mājokļos pietrūkst modernu risinājumu un plašuma.    &lt;/p&gt;
+    &lt;span class=&quot;separator&quot;&gt;&lt;/span&gt;
+</description>
+     <pubDate>Tue, 23 Jan 2024 12:06:29 +0000</pubDate>
+ <dc:creator>Guna.Janusevska</dc:creator>
+ <guid isPermaLink="false">22536 at https://www.luminor.lv</guid>
+  </item>
+  <item>
     <title>42% iedzīvotāju būtu gatavi atteikties no izklaides un atpūtas aktivitātēm, ja nonāktu finanšu grūtībās</title>
     <link>https://www.luminor.lv/lv/jaunumi/42-iedzivotaju-butu-gatavi-atteikties-no-izklaides-un-atputas-aktivitatem-ja-nonaktu-finansu</link>
     <description>
@@ -140,21 +155,6 @@
      <pubDate>Wed, 03 Jan 2024 09:57:34 +0000</pubDate>
  <dc:creator>Guna.Janusevska</dc:creator>
  <guid isPermaLink="false">22518 at https://www.luminor.lv</guid>
-  </item>
-  <item>
-    <title>Informācija uzņēmumiem par SWIFT pāreju uz ISO 20022: jaunajam standartam atbilstoši pārrobežu maksājumi un bankas izraksti</title>
-    <link>https://www.luminor.lv/lv/SWIFT-migre-uz-ISO20022</link>
-    <description>
-  Luminor  &lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.luminor.lv/sites/default/files/styles/large/public/documents/images/common/swift-min.jpg?itok=reKRrVPa&quot; width=&quot;480&quot; height=&quot;480&quot; alt=&quot;&quot; /&gt;
-  &lt;p&gt;SWIFT plāno pārtraukt MT standarta izmantošanu izrakstiem un atskaitēm MT94X formātā un maksājuma pieprasījumiem MT101 formātā 2025. gada novembrī. Tie tiks aizstāti ar camt.053/camt.052 izrakstiem un atskaitēm, savukārt pain.001 – maksājuma pieprasījumiem. SWIFT turpinās atbalstīt MT standartu līdz 2025. gada novembrim un pēc tam tas tiks aizstāts ar ISO 20022 standartu un jaunie camt.053/camt.052/pain.001 formāti kļūs obligāti visiem SWIFT dalībniekiem.&lt;/p&gt;
-  &lt;a href=&quot;/lv/news&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Jaunumi&lt;/a&gt;
-    &lt;p class=&quot;text--lead&quot;&gt;       
-        Informējam uzņēmumus, ka SWIFT maksājumu ziņojumiem globāli ir uzsākta pāreja uz jauno ziņojumu apmaiņas valodu, aizstājot līdzšinējo MT standartu ar ISO 20022 standartu. Izmaiņas skars tos uzņēmumus, kuri saņem vai sūta kontu izrakstus vai atskaites, izmantojot SWIFT pakalpojumus.    &lt;/p&gt;
-    &lt;span class=&quot;separator&quot;&gt;&lt;/span&gt;
-</description>
-     <pubDate>Wed, 03 Jan 2024 07:37:55 +0000</pubDate>
- <dc:creator>Guna.Janusevska</dc:creator>
- <guid isPermaLink="false">22515 at https://www.luminor.lv</guid>
   </item>
   </channel>
 </rss>
