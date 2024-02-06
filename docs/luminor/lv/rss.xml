@@ -6,6 +6,21 @@
     <language>lv</language>
      <atom:link href="https://www.luminor.lv/lv/rss.xml" rel="self" type="application/rss+xml" />
       <item>
+    <title>Aptauja: 40% iedzīvotāju krāj skaidru naudu</title>
+    <link>https://www.luminor.lv/lv/jaunumi/aptauja-40-iedzivotaju-kraj-skaidru-naudu</link>
+    <description>
+  Luminor  &lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.luminor.lv/sites/default/files/styles/large/public/documents/images/common/skaidra-nauda-min.jpg?itok=M13INLJF&quot; width=&quot;480&quot; height=&quot;480&quot; alt=&quot;&quot; /&gt;
+  &lt;p&gt;Visbiežāk krāšanas paradums skaidrā naudā ir izveidojies jaunākiem cilvēkiem vecumā no 18 līdz 29 gadiem – tā izvēlas krāt 49% šajā vecuma grupā aptaujāto. Visvairāk tādā veidā līdzekļus krāj studenti (58%), kā arī pašnodarbinātie (61%). Tāpat liela daļa aptaujāto jeb 43% kā vienu no atbildēm norādījuši, ka uzkrājumus tur savā norēķinu kontā.&lt;/p&gt;
+  &lt;a href=&quot;/lv/news&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Jaunumi&lt;/a&gt;
+    &lt;p class=&quot;text--lead&quot;&gt;       
+        Lai arī teju trešdaļa jeb 29% iedzīvotāju tur savus uzkrājumus krājkontā vai krājrīkā, kā arī veic termiņnoguldījumu, liela daļa aptaujāto - 40% - arvien krāj skaidrā naudā, liecina Luminor bankas veiktā aptauja.*    &lt;/p&gt;
+    &lt;span class=&quot;separator&quot;&gt;&lt;/span&gt;
+</description>
+     <pubDate>Tue, 06 Feb 2024 10:28:07 +0000</pubDate>
+ <dc:creator>Guna.Janusevska</dc:creator>
+ <guid isPermaLink="false">22549 at https://www.luminor.lv</guid>
+  </item>
+  <item>
     <title>Visbiežāk iedzīvotājus no mājokļa iegādes attur nepietiekami ienākumi un ekonomiskā situācija</title>
     <link>https://www.luminor.lv/lv/jaunumi/visbiezak-iedzivotajus-no-majokla-iegades-attur-nepietiekami-ienakumi-un-ekonomiska</link>
     <description>
@@ -150,22 +165,6 @@
      <pubDate>Tue, 16 Jan 2024 06:57:43 +0000</pubDate>
  <dc:creator>Guna.Janusevska</dc:creator>
  <guid isPermaLink="false">22533 at https://www.luminor.lv</guid>
-  </item>
-  <item>
-    <title>Mājokļu cenas: tirgus prognozes nesola samazinājumu, iedzīvotāji sagaida pieaugumu</title>
-    <link>https://www.luminor.lv/lv/jaunumi/majoklu-cenas-tirgus-prognozes-nesola-samazinajumu-iedzivotaji-sagaida-pieaugumu</link>
-    <description>
-  Luminor  &lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.luminor.lv/sites/default/files/styles/large/public/documents/images/common/atslegas-min_0.jpg?itok=tYA-wPI6&quot; width=&quot;480&quot; height=&quot;480&quot; alt=&quot;&quot; /&gt;
-  &lt;h3&gt;Latvijā mājokļu cenas joprojām zemākās Baltijā&lt;/h3&gt;
-&lt;p&gt;Tāpat kā pagājušajā gadā arī šobrīd mājokļu cenas Rīgā ir zemākās starp Baltijas valstu galvaspilsētām, turklāt ar būtisku starpību. Kamēr jaunajos projektos Tallinā un Viļņā dzīvokļu cenas par kvadrātmetru ir robežās no 3500 līdz 4000 eiro, tikmēr Rīgā tie ir 2200 līdz 2700 eiro. &lt;/p&gt;
-  &lt;a href=&quot;/lv/news&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Jaunumi&lt;/a&gt;
-    &lt;p class=&quot;text--lead&quot;&gt;       
-        Saskaņā ar Luminor bankas aptaujas* datiem vairums Latvijas iedzīvotāju uzskata, ka šogad mājokļu cenas pieaugs vai saglabāsies esošajā līmenī. Arī tirgus dati un Luminor prognozes apliecina, ka mājokļu cenu kritums šogad nav gaidāms un ir iespējams neliels pieaugums. Salīdzinot ar Lietuvu un Igauniju, Latvijā joprojām mājokļu cenas ir viszemākās, un paredzams, ka tādas tās saglabāsies arī šogad.    &lt;/p&gt;
-    &lt;span class=&quot;separator&quot;&gt;&lt;/span&gt;
-</description>
-     <pubDate>Fri, 12 Jan 2024 08:05:28 +0000</pubDate>
- <dc:creator>Guna.Janusevska</dc:creator>
- <guid isPermaLink="false">22531 at https://www.luminor.lv</guid>
   </item>
   </channel>
 </rss>
