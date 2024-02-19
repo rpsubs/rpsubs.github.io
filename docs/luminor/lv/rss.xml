@@ -6,6 +6,22 @@
     <language>lv</language>
      <atom:link href="https://www.luminor.lv/lv/rss.xml" rel="self" type="application/rss+xml" />
       <item>
+    <title>Vairums Latvijas iedzīvotāju savas dzīves laikā ir nomainījuši trīs vai vairāk mājokļus</title>
+    <link>https://www.luminor.lv/lv/jaunumi/vairums-latvijas-iedzivotaju-savas-dzives-laika-ir-nomainijusi-tris-vai-vairak-majoklus</link>
+    <description>
+  Luminor  &lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.luminor.lv/sites/default/files/styles/large/public/documents/images/common/nams_0.png?itok=kJCO8t9D&quot; width=&quot;480&quot; height=&quot;480&quot; alt=&quot;&quot; /&gt;
+  &lt;p&gt;Saskaņā ar Luminor aptaujas datiem gandrīz trešdaļa jeb 30% Latvijas iedzīvotāju savas dzīves laikā ir mainījuši mājokļus, ieskaitot īres mājokļus, piecas vai vairāk reizes. Visvairāk cilvēku, kas bieži pārceļas, ir vecuma grupā no 25 līdz 34 gadiem, kā arī Pierīgā dzīvojošo vidū, tāpat var secināt, ka sievietes pārceļas biežāk nekā vīrieši.&lt;/p&gt;
+&lt;p&gt;Trīs vai četras reizes savas dzīves laikā mājokli mainījuši ir 32% iedzīvotāju, bet 16% – divas reizes un 14% ir pārcēlušies vienu reizi.&lt;/p&gt;
+  &lt;a href=&quot;/lv/news&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Jaunumi&lt;/a&gt;
+    &lt;p class=&quot;text--lead&quot;&gt;       
+        Vairums Latvijas iedzīvotāju savas dzīves laikā ir mainījuši dzīvesvietu vismaz trīs reizes, bet 30% ir pārcēlušies pat piecas vai vairāk reizes, liecina Luminor bankas aptauja. Tikmēr tikai 8% iedzīvotāju visu mūžu ir nodzīvojuši vienā mājoklī.    &lt;/p&gt;
+    &lt;span class=&quot;separator&quot;&gt;&lt;/span&gt;
+</description>
+     <pubDate>Mon, 19 Feb 2024 11:07:15 +0000</pubDate>
+ <dc:creator>arvidas.bendorius</dc:creator>
+ <guid isPermaLink="false">22573 at https://www.luminor.lv</guid>
+  </item>
+  <item>
     <title>Naudas krāšana kā spēle: vienkārši un interesanti padomi ikdienai</title>
     <link>https://www.luminor.lv/lv/jaunumi/naudas-krasana-ka-spele-vienkarsi-un-interesanti-padomi-ikdienai</link>
     <description>
@@ -141,22 +157,6 @@
      <pubDate>Mon, 05 Feb 2024 10:51:26 +0000</pubDate>
  <dc:creator>Guna.Janusevska</dc:creator>
  <guid isPermaLink="false">22548 at https://www.luminor.lv</guid>
-  </item>
-  <item>
-    <title>Luminor bankas 2023. gada ceturtā ceturkšņa rezultāti Baltijā</title>
-    <link>https://www.luminor.lv/lv/jaunumi/luminor-bankas-2023-gada-ceturta-ceturksna-rezultati-baltija</link>
-    <description>
-  Luminor  &lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.luminor.lv/sites/default/files/styles/large/public/documents/images/common/luminor-stairs-min_0.jpg?itok=9fKfN4XH&quot; width=&quot;480&quot; height=&quot;480&quot; alt=&quot;&quot; /&gt;
-  &lt;p&gt;Ceturtajā ceturksnī Luminor bankas peļņa Baltijā (Latvijā, Igaunijā un Lietuvā) pirms nodokļu nomaksas bija 51,7 miljoni eiro, kas ir par 10,7% vairāk nekā tādā pašā periodā 2022. gadā. Pēc jaunu nodokļu un nodevu ieviešanas Latvijā un Lietuvā Luminor bankas neto peļņa Baltijā samazinājās par 59,3%, salīdzinot ar līdzvērtīgu periodu pērn, un bija 16,4 miljoni eiro.&lt;br /&gt;
- &lt;br /&gt;&lt;/p&gt;
-  &lt;a href=&quot;/lv/news&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Jaunumi&lt;/a&gt;
-    &lt;p class=&quot;text--lead&quot;&gt;       
-        Aizvadītā gada ceturtajā ceturksnī Luminor banka Baltijā uzrādīja uzlabotus biznesa rezultātus, saglabājot spēcīgu likviditāti un kapitāla pozīcijas, kā arī investējot nākotnē.    &lt;/p&gt;
-    &lt;span class=&quot;separator&quot;&gt;&lt;/span&gt;
-</description>
-     <pubDate>Fri, 02 Feb 2024 10:57:02 +0000</pubDate>
- <dc:creator>Guna.Janusevska</dc:creator>
- <guid isPermaLink="false">22545 at https://www.luminor.lv</guid>
   </item>
   </channel>
 </rss>
