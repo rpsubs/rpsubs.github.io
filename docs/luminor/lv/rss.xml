@@ -6,6 +6,22 @@
     <language>lv</language>
      <atom:link href="https://www.luminor.lv/lv/rss.xml" rel="self" type="application/rss+xml" />
       <item>
+    <title>Dzīvo no algas līdz algai? Eksperte iesaka, kā ietaupīt</title>
+    <link>https://www.luminor.lv/lv/jaunumi/dzivo-no-algas-lidz-algai-eksperte-iesaka-ka-ietaupit</link>
+    <description>
+  Luminor  &lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.luminor.lv/sites/default/files/styles/large/public/documents/images/common/naudas_ietaupisana-min.jpg?itok=u_-aUEGb&quot; width=&quot;480&quot; height=&quot;480&quot; alt=&quot;&quot; /&gt;
+  &lt;h3&gt;Izvērtē nelielos, bet regulāros tēriņus&lt;/h3&gt;
+&lt;p&gt;Tēriņus bieži ir iespējams ierobežot, ja regulāri tiek izvērtēti ikdienas ieradumi. Tieši nelieli un pirmajā mirklī šķietami nebūtiski izdevumi nereti visvairāk iztukšo mēneša budžetu, jo saskaitot visus mazos tēriņus kopā, izrādās tie veido lielu daļu no ikmēneša izdevumiem.&lt;/p&gt;
+  &lt;a href=&quot;/lv/news&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Jaunumi&lt;/a&gt;
+    &lt;p class=&quot;text--lead&quot;&gt;       
+        Dažādu iemeslu dēļ iedzīvotāji nereti savu ikmēneša budžetu ir spiesti plānot vai citos gadījumos veido tā, ka nākas dzīvot no vienas algas dienas līdz nākamajai. Tas, neatkarīgi no ienākumu apjoma,  nereti liek aizdomāties, kā veiksmīgāk aprēķināt savu budžetu un kontrolēt izdevumus. Luminor finanšu eksperte Jekaterina Ziniča sniedz padomus, kā labāk ietaupīt savas finanses.    &lt;/p&gt;
+    &lt;span class=&quot;separator&quot;&gt;&lt;/span&gt;
+</description>
+     <pubDate>Tue, 19 Mar 2024 09:02:17 +0000</pubDate>
+ <dc:creator>Guna.Janusevska</dc:creator>
+ <guid isPermaLink="false">22614 at https://www.luminor.lv</guid>
+  </item>
+  <item>
     <title>Kāpēc turīgi cilvēki iegādājas mājokli, ņemot aizdevumu?</title>
     <link>https://www.luminor.lv/lv/jaunumi/kapec-turigi-cilveki-iegadajas-majokli-nemot-aizdevumu</link>
     <description>
@@ -141,21 +157,6 @@
      <pubDate>Mon, 04 Mar 2024 13:00:14 +0000</pubDate>
  <dc:creator>Guna.Janusevska</dc:creator>
  <guid isPermaLink="false">22591 at https://www.luminor.lv</guid>
-  </item>
-  <item>
-    <title>Luminor mainījis pensiju 3. līmeņa plānu nosaukumus </title>
-    <link>https://www.luminor.lv/lv/jaunumi/luminor-mainijis-pensiju-3-limena-planu-nosaukumus</link>
-    <description>
-  Luminor  &lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.luminor.lv/sites/default/files/styles/large/public/documents/images/common/pensija-min_4.jpg?itok=u-IMaftf&quot; width=&quot;480&quot; height=&quot;480&quot; alt=&quot;&quot; /&gt;
-  &lt;p&gt;Turpmāk Luminor indeksu pensiju plāns Ilgtspējīgā nākotne tiek pārdēvēts par Luminor Ilgtspējīgā nākotne 16-50 indekss, Luminor Progresīvais pensiju plāns - par Luminor Nākotne 50-55, savukārt Luminor Sabalansētais pensiju plāns tiek nosaukts par Luminor Nākotne 55+. &lt;/p&gt;
-  &lt;a href=&quot;/lv/news&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Jaunumi&lt;/a&gt;
-    &lt;p class=&quot;text--lead&quot;&gt;       
-        No šā gada 1. marta Luminor ir pārdēvējis savus pensiju 3.līmeņa plānus, lai iedzīvotājiem atvieglotu pensiju plāna izvēli, tajos iekļaujot ieteicamo vecumu.     &lt;/p&gt;
-    &lt;span class=&quot;separator&quot;&gt;&lt;/span&gt;
-</description>
-     <pubDate>Mon, 04 Mar 2024 12:16:16 +0000</pubDate>
- <dc:creator>Guna.Janusevska</dc:creator>
- <guid isPermaLink="false">22590 at https://www.luminor.lv</guid>
   </item>
   </channel>
 </rss>
