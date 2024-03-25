@@ -6,6 +6,39 @@
     <language>lv</language>
      <atom:link href="https://www.luminor.lv/lv/rss.xml" rel="self" type="application/rss+xml" />
       <item>
+    <title>Darba laiks un maksājumu apstrāde svētku brīvdienās</title>
+    <link>https://www.luminor.lv/lv/jaunumi/darba-laiks-un-maksajumu-apstrade-brivdienas</link>
+    <description>
+  Luminor  &lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.luminor.lv/sites/default/files/styles/large/public/documents/images/common/lieldienas-darba-laiks-luminor-min.jpg?itok=fZXMKzfi&quot; width=&quot;480&quot; height=&quot;480&quot; alt=&quot;&quot; /&gt;
+  &lt;h3&gt;Izmaiņas Luminor klientu apkalpošanas centru darba laikos&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Liepāja:&lt;/strong&gt;&lt;br /&gt;
+28. marts – 9.00–16.00&lt;br /&gt;
+29. marts – brīvs&lt;br /&gt;
+1. aprīlis – brīvs&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Skanste:&lt;/strong&gt;&lt;br /&gt;
+28. marts – 9.00–17.00&lt;br /&gt;
+29. marts – brīvs&lt;br /&gt;
+1. aprīlis – brīvs&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tērbata:&lt;/strong&gt;&lt;br /&gt;
+28. marts – 9.00–17.00&lt;br /&gt;
+29. marts – brīvs&lt;br /&gt;
+1. aprīlis – brīvs&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mārupe:&lt;/strong&gt;&lt;br /&gt;
+28. marts – 9.00–17.00&lt;br /&gt;
+29. marts – brīvs&lt;br /&gt;
+1. aprīlis – brīvs&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Valmiera:&lt;/strong&gt;&lt;br /&gt;
+28. marts – 9.00–16.00&lt;/p&gt;
+  &lt;a href=&quot;/lv/news&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Jaunumi&lt;/a&gt;
+    &lt;p class=&quot;text--lead&quot;&gt;       
+        Aicinām iepazīties un pievērst uzmanību Luminor klientu apkalpošanas centru darba laikiem un maksājumu veikšanai 28. martā svētku brīvdienās.    &lt;/p&gt;
+    &lt;span class=&quot;separator&quot;&gt;&lt;/span&gt;
+</description>
+     <pubDate>Mon, 25 Mar 2024 14:16:59 +0000</pubDate>
+ <dc:creator>Guna.Janusevska</dc:creator>
+ <guid isPermaLink="false">22622 at https://www.luminor.lv</guid>
+  </item>
+  <item>
     <title>Latvijas iedzīvotāji dotu priekšroku dzīvei Rīgā vai piepilsētā; tikai 11 % vēlētos dzīvot laukos </title>
     <link>https://www.luminor.lv/lv/jaunumi/latvijas-iedzivotaji-dotu-prieksroku-dzivei-riga-vai-piepilseta-tikai-11-veletos-dzivot</link>
     <description>
@@ -142,21 +175,6 @@
      <pubDate>Mon, 11 Mar 2024 06:53:38 +0000</pubDate>
  <dc:creator>Guna.Janusevska</dc:creator>
  <guid isPermaLink="false">22601 at https://www.luminor.lv</guid>
-  </item>
-  <item>
-    <title>Februāris vēsturisku virsotņu zīmē</title>
-    <link>https://www.luminor.lv/lv/jaunumi/februaris-vesturisku-virsotnu-zime</link>
-    <description>
-  Luminor  &lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.luminor.lv/sites/default/files/styles/large/public/documents/images/common/tarass_newsletter-min_0.jpg?itok=2xv8dwDz&quot; width=&quot;480&quot; height=&quot;270&quot; alt=&quot;&quot; /&gt;
-  &lt;p&gt;Jau janvārī rakstījām, ka nozīmīgākie akciju indeksi sasniedza savas visu laiku augstākās virsotnes - februārī šie rādītāji tika pārsniegti un&lt;em&gt; S&amp;amp;P 500&lt;/em&gt; indekss pārspējis vēsturisku 5,000 punktu līmeni. Stabila uzņēmumu peļņa ar izaugsmes prognozēm nākamajam gadam turpināja virzīt šo augšupeju, tāpat globālā ekonomika piedzīvoja izaugsmi, neskatoties uz stagnējošo Eiropas, Apvienotās Karalistes un Japānas ekonomiku. Tikmēr obligāciju indeksi piedzīvoja kritumu, jo tirgus dalībnieki kļuva piesardzīgāki attiecībā uz gada procentu likmju prognozēm.&lt;/p&gt;
-  &lt;a href=&quot;/lv/news&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Jaunumi&lt;/a&gt;
-    &lt;p class=&quot;text--lead&quot;&gt;       
-        Tarass Buka, Luminor Ieguldījumu pārvaldes vadītājs    &lt;/p&gt;
-    &lt;span class=&quot;separator&quot;&gt;&lt;/span&gt;
-</description>
-     <pubDate>Thu, 07 Mar 2024 12:27:33 +0000</pubDate>
- <dc:creator>Guna.Janusevska</dc:creator>
- <guid isPermaLink="false">22596 at https://www.luminor.lv</guid>
   </item>
   </channel>
 </rss>
