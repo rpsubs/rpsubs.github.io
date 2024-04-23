@@ -6,6 +6,42 @@
     <language>lv</language>
      <atom:link href="https://www.luminor.lv/lv/rss.xml" rel="self" type="application/rss+xml" />
       <item>
+    <title>Darba laiks un maksājumu apstrāde svētku brīvdienās</title>
+    <link>https://www.luminor.lv/lv/jaunumi/darba-laiks-un-maksajumu-apstrade-svetku-brivdienas-4</link>
+    <description>
+  Luminor  &lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.luminor.lv/sites/default/files/styles/large/public/documents/images/common/latvijas-larogs-1-min.png?itok=rMoCsqXG&quot; width=&quot;480&quot; height=&quot;480&quot; alt=&quot;&quot; /&gt;
+  &lt;p&gt;&lt;strong&gt;Izmaiņas Luminor klientu apkalpošanas centru darba laikos&lt;/strong&gt;&lt;br /&gt;
+ &lt;br /&gt;
+&lt;strong&gt;Liepāja:&lt;/strong&gt;&lt;br /&gt;
+1. maijs – Brīvs&lt;br /&gt;
+3. maijs -  9.00 -16.00&lt;br /&gt;
+6. maijs – Brīvs&lt;br /&gt;
+ &lt;br /&gt;
+&lt;strong&gt;Skanste:&lt;/strong&gt;&lt;br /&gt;
+1. maijs – Brīvs&lt;br /&gt;
+3. maijs -  9.00 -17.00&lt;br /&gt;
+6. maijs – Brīvs&lt;br /&gt;
+ &lt;br /&gt;
+&lt;strong&gt;Tērbata:&lt;/strong&gt;&lt;br /&gt;
+1. maijs – Brīvs&lt;br /&gt;
+3. maijs -  9.00 -17.00&lt;br /&gt;
+6. maijs – Brīvs&lt;br /&gt;
+ &lt;br /&gt;
+&lt;strong&gt;Mārupe:&lt;/strong&gt;&lt;br /&gt;
+1. maijs – Brīvs&lt;br /&gt;
+3. maijs -  9.00 -17.00&lt;br /&gt;
+6. maijs – Brīvs&lt;br /&gt;
+ &lt;br /&gt;&lt;/p&gt;
+  &lt;a href=&quot;/lv/news&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Jaunumi&lt;/a&gt;
+    &lt;p class=&quot;text--lead&quot;&gt;       
+        Aicinām iepazīties ar plānotajām izmaiņām Luminor klientu apkalpošanas centru darba laikos un maksājumu veikšanā maija svētku laikā.    &lt;/p&gt;
+    &lt;span class=&quot;separator&quot;&gt;&lt;/span&gt;
+</description>
+     <pubDate>Tue, 23 Apr 2024 06:03:09 +0000</pubDate>
+ <dc:creator>Guna.Janusevska</dc:creator>
+ <guid isPermaLink="false">22652 at https://www.luminor.lv</guid>
+  </item>
+  <item>
     <title>Remontēts vai neremontēts dzīvoklis – kā izvēlēties īsto?</title>
     <link>https://www.luminor.lv/lv/jaunumi/remontets-vai-neremontets-dzivoklis-ka-izveleties-isto</link>
     <description>
@@ -137,17 +173,6 @@
      <pubDate>Tue, 09 Apr 2024 06:37:19 +0000</pubDate>
  <dc:creator>Guna.Janusevska</dc:creator>
  <guid isPermaLink="false">22630 at https://www.luminor.lv</guid>
-  </item>
-  <item>
-    <title>Hipotekāro kredītņēmēju kompensācijas – iespēja papildināt uzkrājumus vai ieguldīt</title>
-    <link>https://www.luminor.lv/lv/jaunumi/hipotekaro-kreditnemeju-kompensacijas-iespeja-papildinat-uzkrajumus-vai-ieguldit</link>
-    <description>
-  Luminor  &lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.luminor.lv/sites/default/files/styles/large/public/documents/images/common/cucina-min.jpg?itok=446btU-h&quot; width=&quot;480&quot; height=&quot;480&quot; alt=&quot;&quot; /&gt;
-  &lt;p&gt;Kredītiestādes pirmajā ceturksnī valsts budžetā iemaksājušas 24 miljonus eiro&lt;a href=&quot;#1&quot;&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/a&gt;, no kā daļa aprīlī tiks izmaksāta hipotekāro kredītņēmēju kompensācijās par šī gada pirmajiem trīs mēnešiem. Kredītņēmēji saņems 30% no veiktajiem procentu maksājumiem, un atkarībā no kredīta apmēra tie būs līdz vairākiem simtiem eiro. Luminor bankas finanšu eksperts Raivis Vutnāns iesaka, kā ar šiem līdzekļiem rīkoties gudri un uzlabot savu finansiālo drošību.&lt;/p&gt;
-  &lt;a href=&quot;/lv/news&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Jaunumi&lt;/a&gt;</description>
-     <pubDate>Mon, 08 Apr 2024 07:22:23 +0000</pubDate>
- <dc:creator>Guna.Janusevska</dc:creator>
- <guid isPermaLink="false">22629 at https://www.luminor.lv</guid>
   </item>
   </channel>
 </rss>
