@@ -6,6 +6,21 @@
     <language>lv</language>
      <atom:link href="https://www.luminor.lv/lv/rss.xml" rel="self" type="application/rss+xml" />
       <item>
+    <title>Lielais inflācijas vilnis un tā putas</title>
+    <link>https://www.luminor.lv/lv/jaunumi/lielais-inflacijas-vilnis-un-ta-putas</link>
+    <description>
+  Luminor  &lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.luminor.lv/sites/default/files/styles/large/public/documents/images/common/p-strautins-min_2.jpg?itok=lFu-zK3U&quot; width=&quot;480&quot; height=&quot;480&quot; alt=&quot;Pēteris Strautiņš, Luminor galvenais ekonomists&quot; /&gt;
+  &lt;p&gt;Maijā cenas pret pērno maiju pieauga par 0,1%, un tā bija mazākā gada inflācija kopš 2021. gada februāra. Domājams, ka jūnijā salīdzinājumā ar maiju kopējais cenu līmenis nozīmīgi nemainās, pakalpojumu cenas turpina kāpt, bet pretēji darbojas lielākā svārstīgā preču komponente jeb degviela. Taču bāzes efekts jeb pērnā gada cenu līmeņa zigzagi inflāciju jūnijā ievērojami palielinās, tai pārsniedzot procentu, savukārt jūlijā un augustā atkal samazinoties apmēram līdz pašreizējam līmenim.&lt;br /&gt;&lt;/p&gt;
+  &lt;a href=&quot;/lv/news&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Jaunumi&lt;/a&gt;
+    &lt;p class=&quot;text--lead&quot;&gt;       
+        Par patēriņa cenu izmaiņām 2024. gada maijā    &lt;/p&gt;
+    &lt;span class=&quot;separator&quot;&gt;&lt;/span&gt;
+</description>
+     <pubDate>Tue, 11 Jun 2024 05:43:03 +0000</pubDate>
+ <dc:creator>Guna.Janusevska</dc:creator>
+ <guid isPermaLink="false">22734 at https://www.luminor.lv</guid>
+  </item>
+  <item>
     <title>TOP4 populārākie kredītu veidi Latvijā</title>
     <link>https://www.luminor.lv/lv/jaunumi/top4-popularakie-kreditu-veidi-latvija</link>
     <description>
@@ -135,21 +150,6 @@
      <pubDate>Wed, 29 May 2024 08:13:12 +0000</pubDate>
  <dc:creator>Guna.Janusevska</dc:creator>
  <guid isPermaLink="false">22714 at https://www.luminor.lv</guid>
-  </item>
-  <item>
-    <title>Aptauja: vairāk nekā puse Latvijas iedzīvotāju krāj papildus, lai vecumdienas būtu labas un pārtikušas</title>
-    <link>https://www.luminor.lv/lv/jaunumi/aptauja-vairak-neka-puse-latvijas-iedzivotaju-kraj-papildus-lai-vecumdienas-butu-labas-un</link>
-    <description>
-  Luminor  &lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.luminor.lv/sites/default/files/styles/large/public/documents/images/common/atis_krumins_luminor-min.jpg?itok=stkPGr6q&quot; width=&quot;480&quot; height=&quot;480&quot; alt=&quot;Luminor aktīvu pārvaldīšanas un pensiju daļas vadītājs Atis Krūmiņš&quot; /&gt;
-  &lt;p&gt;Kā norāda Luminor aktīvu pārvaldīšanas un pensiju daļas vadītājs Atis Krūmiņš, raugoties no finanšu skatupunkta uz jautājumu “krāt vai nekrāt naudu vecumdienām?” ir tikai viena atbilde – viennozīmīgi krāt, jo pensijas uzkrājuma veidošana sniedz iespēju parūpēties par finansiāli drošām un neatkarīgām vecumdienām. “No tiem Latvijas iedzīvotājiem, kuri neveido uzkrājumu vecumdienām, jo par to nav līdz šim domājuši, lielākais īpatsvars ir tieši cilvēki vecumā no 18 līdz 39 gadiem.&lt;/p&gt;
-  &lt;a href=&quot;/lv/news&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Jaunumi&lt;/a&gt;
-    &lt;p class=&quot;text--lead&quot;&gt;       
-        Ikvienam labpatīk domāt, ka pensijas vecums vēl ir ļoti tālu un tam gatavoties vēl ir daudz laika, taču šāda nostāja var tomēr sagādāt liekas raizes ilgtermiņā. Arī Luminor bankas aptaujas rezultāti iezīmē šādu sentimentu – 41% Latvijas iedzīvotāju galvenokārt izvēlas neveidot kādu papildu uzkrājumu pensijas vecumam, jo par šo jautājumu līdz šim nav pat domājuši.* Tajā pašā laikā tie, kuri izvēlas veikt papildu uzkrājumus, galvenokārt to dara, lai vecumdienās viņiem būtu laba un pārtikusi dzīve – tā norāda vairāk nekā puse iedzīvotāju.    &lt;/p&gt;
-    &lt;span class=&quot;separator&quot;&gt;&lt;/span&gt;
-</description>
-     <pubDate>Tue, 28 May 2024 11:04:33 +0000</pubDate>
- <dc:creator>Guna.Janusevska</dc:creator>
- <guid isPermaLink="false">22713 at https://www.luminor.lv</guid>
   </item>
   </channel>
 </rss>
