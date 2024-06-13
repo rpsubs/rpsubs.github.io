@@ -6,6 +6,21 @@
     <language>lv</language>
      <atom:link href="https://www.luminor.lv/lv/rss.xml" rel="self" type="application/rss+xml" />
       <item>
+    <title>Ekonomikai ar naudu nepietiek</title>
+    <link>https://www.luminor.lv/lv/jaunumi/ekonomikai-ar-naudu-nepietiek</link>
+    <description>
+  Luminor  &lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.luminor.lv/sites/default/files/styles/large/public/documents/images/common/peteris-strautins-2-min_2.jpg?itok=i6VeTTmx&quot; width=&quot;480&quot; height=&quot;480&quot; alt=&quot;&quot; /&gt;
+  &lt;p&gt;Lai uzceptu pankūkas, vajag pienu, olas un miltus, turklāt noteiktās proporcijās. Palielinot tikai piena vai olu vai miltu apjomu, ir iespējams uzcept vairāk pankūku. Taču diez vai tādā gadījumā pieaugs to ēdāju gūtā labsajūta, jo kvalitāte būs pasliktinājusies – pankūkas būs par mīkstu vai cietu, biezu vai plānu. Šī elementārā patiesība tiek aizmirsta, runājot par banku darbību un reālās jeb nefinanšu ekonomikas nodrošinājumu ar naudu kopumā.&lt;/p&gt;
+  &lt;a href=&quot;/lv/news&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Jaunumi&lt;/a&gt;
+    &lt;p class=&quot;text--lead&quot;&gt;       
+        Pēteris Strautiņš, Luminor bankas galvenais ekonomists    &lt;/p&gt;
+    &lt;span class=&quot;separator&quot;&gt;&lt;/span&gt;
+</description>
+     <pubDate>Thu, 13 Jun 2024 10:26:30 +0000</pubDate>
+ <dc:creator>Guna.Janusevska</dc:creator>
+ <guid isPermaLink="false">22741 at https://www.luminor.lv</guid>
+  </item>
+  <item>
     <title>Latvijas uzņēmumi – apzinīgākie kiberdrošībā Baltijā</title>
     <link>https://www.luminor.lv/lv/jaunumi/latvijas-uznemumi-apzinigakie-kiberdrosiba-baltija</link>
     <description>
@@ -133,21 +148,6 @@
      <pubDate>Tue, 04 Jun 2024 05:35:27 +0000</pubDate>
  <dc:creator>Guna.Janusevska</dc:creator>
  <guid isPermaLink="false">22726 at https://www.luminor.lv</guid>
-  </item>
-  <item>
-    <title>Viltus darba sludinājumi un naudas mūļi – kā neuzķerties? Skaidro eksperte</title>
-    <link>https://www.luminor.lv/lv/jaunumi/viltus-darba-sludinajumi-un-naudas-muli-ka-neuzkerties-skaidro-eksperte</link>
-    <description>
-  Luminor  &lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.luminor.lv/sites/default/files/styles/large/public/documents/images/common/stop-uzmanibu-min.jpg?itok=yff5XHaX&quot; width=&quot;480&quot; height=&quot;480&quot; alt=&quot;&quot; /&gt;
-  &lt;h3&gt;Pie kā var novest vieglas peļņas solījumi?&lt;/h3&gt;
-  &lt;a href=&quot;/lv/news&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Jaunumi&lt;/a&gt;
-    &lt;p class=&quot;text--lead&quot;&gt;       
-        Sākoties vasaras sezonai, aktīvāka kļūst arī cilvēku vēlme gūt papildu ienākumus. Tas īpaši novērojams jauniešu vidū, kuri vasaru vēlas izmantot lietderīgi, nopelnot papildu naudas līdzekļus. Šajā periodā aktīvi kļūst krāpnieki, kuri ne tikai piedāvā dažādus viltus darba piedāvājumus, bet var arī iesaistīt cilvēkus shēmās, lai izmantotu viņus par naudas kurjeriem jeb tā sauktajiem “naudas mūļiem”. Kā neiekrist šādu krāpnieku nagos, skaidro Luminor bankas krāpšanas novēršanas eksperte Marija Celma.    &lt;/p&gt;
-    &lt;span class=&quot;separator&quot;&gt;&lt;/span&gt;
-</description>
-     <pubDate>Mon, 03 Jun 2024 09:03:14 +0000</pubDate>
- <dc:creator>Guna.Janusevska</dc:creator>
- <guid isPermaLink="false">22720 at https://www.luminor.lv</guid>
   </item>
   </channel>
 </rss>
