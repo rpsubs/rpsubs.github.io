@@ -6,6 +6,21 @@
     <language>lv</language>
      <atom:link href="https://www.luminor.lv/lv/rss.xml" rel="self" type="application/rss+xml" />
       <item>
+    <title>Līdz ar paaudzēm mainās aizņemšanās kultūra</title>
+    <link>https://www.luminor.lv/lv/jaunumi/lidz-ar-paaudzem-mainas-aiznemsanas-kultura</link>
+    <description>
+  Luminor  &lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.luminor.lv/sites/default/files/styles/large/public/documents/images/common/kerli-vares-3-min.png?itok=Ed25g8ur&quot; width=&quot;480&quot; height=&quot;480&quot; alt=&quot;&quot; /&gt;
+  &lt;p&gt;Latvijas sabiedrības apziņā sen un dziļi bija iespiedies teiciens “parāds nav brālis”. Priekšstats, ka aizņēmums drīzāk ir uzskatāms par kaut ko bīstamu, nevis daļu no mūsu ikdienas, cilvēkus ilgstoši atturēja uzņemties saistības.&lt;/p&gt;
+  &lt;a href=&quot;/lv/news&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Jaunumi&lt;/a&gt;
+    &lt;p class=&quot;text--lead&quot;&gt;       
+        Kerli Vares, Luminor bankas vadītāja Latvijā    &lt;/p&gt;
+    &lt;span class=&quot;separator&quot;&gt;&lt;/span&gt;
+</description>
+     <pubDate>Tue, 18 Jun 2024 10:37:44 +0000</pubDate>
+ <dc:creator>Guna.Janusevska</dc:creator>
+ <guid isPermaLink="false">22747 at https://www.luminor.lv</guid>
+  </item>
+  <item>
     <title>Euribor likmei samazinoties, 24% mazo un vidējo uzņēmumu plāno vairāk ieguldīt attīstībā</title>
     <link>https://www.luminor.lv/lv/jaunumi/euribor-likmei-samazinoties-24-mazo-un-videjo-uznemumu-plano-vairak-ieguldit-attistiba</link>
     <description>
@@ -133,23 +148,6 @@
      <pubDate>Thu, 06 Jun 2024 11:12:25 +0000</pubDate>
  <dc:creator>Guna.Janusevska</dc:creator>
  <guid isPermaLink="false">22731 at https://www.luminor.lv</guid>
-  </item>
-  <item>
-    <title>Toksiskas attiecības ar naudu – kādas tās ir un kā no tām izvairīties?</title>
-    <link>https://www.luminor.lv/lv/jaunumi/toksiskas-attiecibas-ar-naudu-kadas-tas-ir-un-ka-no-tam-izvairities</link>
-    <description>
-  Luminor  &lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.luminor.lv/sites/default/files/styles/large/public/documents/images/common/jekaterina-zinica-min_1_1.png?itok=eqnVHMa2&quot; width=&quot;480&quot; height=&quot;480&quot; alt=&quot;jLuminor bankas finanšu eksperte Jekaterina Ziniča&quot; /&gt;
-  &lt;h3&gt;Veselīgu un toksisku attiecību pazīmes&lt;/h3&gt;
-&lt;p&gt;Rīkoties ar naudu ir darbs visa mūža garumā, ko būtu vērtīgi apgūt jau no bērnības. Ja ir izdevies “izveidot” veselīgas attiecības ar naudu, tad tās raksturo regulāra savas finansiālās situācijas uzraudzīšana, bet tāda, kas neizraisa nesamērīgu stresu, kā arī spēja sabalansēt izdevumus gan šodienas, gan nākotnes vajadzībām. Pozitīvi vērtējams arī tas, ja ģimenes lokā atklāti tiek runāts par naudu un kopīgi plānots savas ģimenes budžets.&lt;br /&gt;
- &lt;br /&gt;&lt;/p&gt;
-  &lt;a href=&quot;/lv/news&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Jaunumi&lt;/a&gt;
-    &lt;p class=&quot;text--lead&quot;&gt;       
-        Izdzirdot frāzi “toksiskas attiecības”, visticamāk, pirmais, par ko iedomājamies, ir nelabvēlīgas attiecības ar citiem cilvēkiem, tomēr neveselīgas attiecības iespējamas arī attiecībā uz naudu un mūsu pašu finansēm. Par to, vai un kāda ir nepareiza attieksme pret finansēm, kā tā kaitē ikdienā un kā to uzlabot, stāsta Luminor bankas finanšu eksperte Jekaterina Ziniča.    &lt;/p&gt;
-    &lt;span class=&quot;separator&quot;&gt;&lt;/span&gt;
-</description>
-     <pubDate>Wed, 05 Jun 2024 08:01:45 +0000</pubDate>
- <dc:creator>Guna.Janusevska</dc:creator>
- <guid isPermaLink="false">22730 at https://www.luminor.lv</guid>
   </item>
   </channel>
 </rss>
