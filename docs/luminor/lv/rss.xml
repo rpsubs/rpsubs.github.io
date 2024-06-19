@@ -6,6 +6,21 @@
     <language>lv</language>
      <atom:link href="https://www.luminor.lv/lv/rss.xml" rel="self" type="application/rss+xml" />
       <item>
+    <title>Aptauja: vairāk nekā 40% Latvijas iedzīvotāju jūtas finansiāli nedroši par savām vecumdienām</title>
+    <link>https://www.luminor.lv/lv/jaunumi/aptauja-vairak-neka-40-latvijas-iedzivotaju-jutas-finansiali-nedrosi-par-savam-vecumdienam</link>
+    <description>
+  Luminor  &lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.luminor.lv/sites/default/files/styles/large/public/documents/images/common/pensija-vecumdienas-min_0.jpg?itok=MYe32QhO&quot; width=&quot;480&quot; height=&quot;480&quot; alt=&quot;&quot; /&gt;
+  &lt;h3&gt;Katrs piektais jūtas finansiāli droši par savām vecumdienām&lt;/h3&gt;
+  &lt;a href=&quot;/lv/news&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Jaunumi&lt;/a&gt;
+    &lt;p class=&quot;text--lead&quot;&gt;       
+        Ikviens no mums vēlas pavadīt vecumdienas, nesatraucoties par savu finansiālo labklājību. Kā liecina Luminor veiktā aptauja, gana liela daļa Latvijas iedzīvotāju diemžēl nav pārliecināti par savu finansiālo stabilitāti pensijas vecumā. No aptaujātajiem iedzīvotājiem tikai katrs piektais nešaubās par savu finansiālo labklājību vecumdienās, savukārt vairāk nekā 40% aptaujāto jūtas nedroši.*     &lt;/p&gt;
+    &lt;span class=&quot;separator&quot;&gt;&lt;/span&gt;
+</description>
+     <pubDate>Wed, 19 Jun 2024 08:36:58 +0000</pubDate>
+ <dc:creator>Guna.Janusevska</dc:creator>
+ <guid isPermaLink="false">22749 at https://www.luminor.lv</guid>
+  </item>
+  <item>
     <title>Darba laiks un maksājumu apstrāde Līgo svētkos</title>
     <link>https://www.luminor.lv/lv/jaunumi/darba-laiks-un-maksajumu-apstrade-ligo-svetkos-0</link>
     <description>
@@ -142,21 +157,6 @@
      <pubDate>Mon, 10 Jun 2024 11:43:00 +0000</pubDate>
  <dc:creator>Guna.Janusevska</dc:creator>
  <guid isPermaLink="false">22733 at https://www.luminor.lv</guid>
-  </item>
-  <item>
-    <title>Finanšu tirgos maijā iespīdēja saule</title>
-    <link>https://www.luminor.lv/lv/jaunumi/finansu-tirgos-maija-iespideja-saule</link>
-    <description>
-  Luminor  &lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.luminor.lv/sites/default/files/styles/large/public/documents/images/common/tarass_buka_luminor_banka-min.jpg?itok=6MzziN12&quot; width=&quot;480&quot; height=&quot;480&quot; alt=&quot;&quot; /&gt;
-  &lt;p&gt;Maijā saule spīdēja gan akciju, gan obligāciju tirgos. Pastāvīgs investoru optimisms par ekonomikas perspektīvām un sagaidāms korporatīvas peļņas pieaugums atbalstīja riska aktīvus. Akciju tirgos ASV tirgus uzrādīja vislabākos rezultātus, un “lieliskā septītnieka” (izņemot Tesla) uzņēmumi veidoja trīs trešdaļas no tirgus atdeves. Investīciju līmeņa obligāciju un augsta ienesīguma obligāciju atdeve arī bija pozitīva, pateicoties veselīgiem uzņēmumu rādītājiem, savukārt valdību obligāciju rezultāti bija sliktāki, jo pieprasījums sākotnējās izsolēs bija zems.&lt;/p&gt;
-  &lt;a href=&quot;/lv/news&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Jaunumi&lt;/a&gt;
-    &lt;p class=&quot;text--lead&quot;&gt;       
-        Luminor pensiju ieguldījumu daļas vadītājs Tarass Buka    &lt;/p&gt;
-    &lt;span class=&quot;separator&quot;&gt;&lt;/span&gt;
-</description>
-     <pubDate>Mon, 10 Jun 2024 11:09:27 +0000</pubDate>
- <dc:creator>Guna.Janusevska</dc:creator>
- <guid isPermaLink="false">22732 at https://www.luminor.lv</guid>
   </item>
   </channel>
 </rss>
