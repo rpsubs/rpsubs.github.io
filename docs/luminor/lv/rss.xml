@@ -6,6 +6,21 @@
     <language>lv</language>
      <atom:link href="https://www.luminor.lv/lv/rss.xml" rel="self" type="application/rss+xml" />
       <item>
+    <title>Latvijas uzņēmēju attīstības plāni – optimistiskākie Baltijā</title>
+    <link>https://www.luminor.lv/lv/jaunumi/latvijas-uznemeju-attistibas-plani-optimistiskakie-baltija</link>
+    <description>
+  Luminor  &lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.luminor.lv/sites/default/files/styles/large/public/documents/images/common/uznemejdarbibas-attistiba-min.jpg?itok=0dyDR4Bk&quot; width=&quot;480&quot; height=&quot;480&quot; alt=&quot;&quot; /&gt;
+  &lt;p&gt;“Notikumi ekonomikā virzās saskaņā ar pozitīvākām prognozēm – reālās algas pieaug un tiek sagaidīts, ka pieaugs arī iedzīvotāju patēriņš. Optimistiskāku noskaņojumu vēl padara nesenais Eiropas Centrālās bankas lēmums par procentu likmju samazināšanu, kas bija gaidīta ziņa, kas varētu ekonomiku iekustināt vēl pozitīvākā gultnē. Iespējams, ka daļa uzņēmēju joprojām gaida stabilāku ekonomikas izaugsmi, taču jau šobrīd novērojam situācijas uzlabošanos.&lt;/p&gt;
+  &lt;a href=&quot;/lv/news&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Jaunumi&lt;/a&gt;
+    &lt;p class=&quot;text--lead&quot;&gt;       
+        Katrs trešais (36%) mazais un vidējais uzņēmums (MVU) Latvijā šogad plāno attīstīties – tā noskaidrots Luminor bankas veiktajā uzņēmēju aptaujā*. Uz Baltijas valstu fona Latvijas uzņēmēji šoreiz izceļas ar lielāku optimismu, jo kaimiņvalstīs attīstības plāni ir salīdzinoši mazākai daļai uzņēmumu. Visbiežāk uzņēmēji norāda, ka plānots palielināt pārdošanas vai ražošanas apjomus un radīt jaunus produktus vai pakalpojumus, tomēr ievērojama daļa jeb 40% šogad arī neplāno paplašināties.    &lt;/p&gt;
+    &lt;span class=&quot;separator&quot;&gt;&lt;/span&gt;
+</description>
+     <pubDate>Thu, 20 Jun 2024 13:14:52 +0000</pubDate>
+ <dc:creator>Guna.Janusevska</dc:creator>
+ <guid isPermaLink="false">22750 at https://www.luminor.lv</guid>
+  </item>
+  <item>
     <title>Aptauja: vairāk nekā 40% Latvijas iedzīvotāju jūtas finansiāli nedroši par savām vecumdienām</title>
     <link>https://www.luminor.lv/lv/jaunumi/aptauja-vairak-neka-40-latvijas-iedzivotaju-jutas-finansiali-nedrosi-par-savam-vecumdienam</link>
     <description>
@@ -146,17 +161,6 @@
      <pubDate>Tue, 11 Jun 2024 05:43:03 +0000</pubDate>
  <dc:creator>Guna.Janusevska</dc:creator>
  <guid isPermaLink="false">22734 at https://www.luminor.lv</guid>
-  </item>
-  <item>
-    <title>TOP4 populārākie kredītu veidi Latvijā</title>
-    <link>https://www.luminor.lv/lv/jaunumi/top4-popularakie-kreditu-veidi-latvija</link>
-    <description>
-  Luminor  &lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.luminor.lv/sites/default/files/styles/large/public/documents/images/common/nauda-min_1.jpg?itok=8PfNrxCs&quot; width=&quot;480&quot; height=&quot;480&quot; alt=&quot;&quot; /&gt;
-  &lt;p&gt;Dažādi kredītpakalpojumi ir plaši lietoti atbalsta rīki lielāku un mazāku pirkumu veikšanai, palīdzot iegādāties, piemēram, sadzīves tehniku, auto, ceļojumu vai jaunu ģimenes mājokli, kā arī apmaksāt medicīnas pakalpojumus. Kā liecina “Kredītinformācijas Biroja&quot; veiktā iedzīvotāju aptauja, šobrīd kādu no kredītpakalpojumiem izmanto divas trešdaļas jeb 65 % Latvijas iedzīvotāju&lt;a href=&quot;#1&quot;&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/a&gt;.&lt;/p&gt;
-  &lt;a href=&quot;/lv/news&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Jaunumi&lt;/a&gt;</description>
-     <pubDate>Mon, 10 Jun 2024 11:43:00 +0000</pubDate>
- <dc:creator>Guna.Janusevska</dc:creator>
- <guid isPermaLink="false">22733 at https://www.luminor.lv</guid>
   </item>
   </channel>
 </rss>
