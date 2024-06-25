@@ -6,6 +6,23 @@
     <language>lv</language>
      <atom:link href="https://www.luminor.lv/lv/rss.xml" rel="self" type="application/rss+xml" />
       <item>
+    <title>Mākslīgais intelekts ataino – kāda ir latviešu sapņu māja</title>
+    <link>https://www.luminor.lv/lv/jaunumi/maksligais-intelekts-ataino-kada-ir-latviesu-sapnu-maja</link>
+    <description>
+  Luminor  &lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.luminor.lv/sites/default/files/styles/large/public/documents/images/common/latviesa_sapnu_maja_maksliga_intelekta_foto-min.jpg?itok=xW3ghhdd&quot; width=&quot;480&quot; height=&quot;480&quot; alt=&quot;&quot; /&gt;
+  &lt;h3&gt;Ģimenes māja pie “dabas krūts”&lt;/h3&gt;
+&lt;p&gt;Mākslīgā intelekta rīks ChatGPT apraksta latvieša sapņu māju kā nelielu viensētu, kas atrodas ārpus pilsētas un no kuras paveras skats uz Latvijas dabas ainavu. Līdzīgi novērots arī Luminor bankas pieredzē – cilvēki arvien biežāk priekšroku dod mājokļiem, kas atrodas ārpus pilsētas burzmas, taču vienlaikus ir pietiekami tuvu, lai visi nepieciešamie pakalpojumi būtu viegli un ātri sasniedzami.&lt;br /&gt;
+ &lt;br /&gt;&lt;/p&gt;
+  &lt;a href=&quot;/lv/news&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Jaunumi&lt;/a&gt;
+    &lt;p class=&quot;text--lead&quot;&gt;       
+        Izpratni par latviešu sapņu māju var iegūt ne tikai veidojot dažādas aptaujas vai apkopojot statistiku, bet nu arī mākslīgais intelekts, izmantojot visus pieejamos resursus, spēj konkrēti un ātri sniegt atbildi. Kā norāda plaši zināmais mākslīgā intelekta rīks ChatGPT, latvieša sapņu māja atspoguļo tieksmi pēc dabas, tradīcijām, privātuma un miera, vienlaikus neaizmirstot par komfortu un moderniem, ilgtspējīgiem risinājumiem. Vai mākslīgā intelekta veidotā latvieša sapņu māja atšķiras no realitātes, komentē Luminor bankas mājokļu kreditēšanas vadītājs Kaspars Sausais.    &lt;/p&gt;
+    &lt;span class=&quot;separator&quot;&gt;&lt;/span&gt;
+</description>
+     <pubDate>Tue, 25 Jun 2024 10:38:21 +0000</pubDate>
+ <dc:creator>Guna.Janusevska</dc:creator>
+ <guid isPermaLink="false">22752 at https://www.luminor.lv</guid>
+  </item>
+  <item>
     <title>Latvijas uzņēmēju attīstības plāni – optimistiskākie Baltijā</title>
     <link>https://www.luminor.lv/lv/jaunumi/latvijas-uznemeju-attistibas-plani-optimistiskakie-baltija</link>
     <description>
@@ -146,21 +163,6 @@
      <pubDate>Wed, 12 Jun 2024 05:51:23 +0000</pubDate>
  <dc:creator>Guna.Janusevska</dc:creator>
  <guid isPermaLink="false">22738 at https://www.luminor.lv</guid>
-  </item>
-  <item>
-    <title>Lielais inflācijas vilnis un tā putas</title>
-    <link>https://www.luminor.lv/lv/jaunumi/lielais-inflacijas-vilnis-un-ta-putas</link>
-    <description>
-  Luminor  &lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://www.luminor.lv/sites/default/files/styles/large/public/documents/images/common/p-strautins-min_2.jpg?itok=lFu-zK3U&quot; width=&quot;480&quot; height=&quot;480&quot; alt=&quot;Pēteris Strautiņš, Luminor galvenais ekonomists&quot; /&gt;
-  &lt;p&gt;Maijā cenas pret pērno maiju pieauga par 0,1%, un tā bija mazākā gada inflācija kopš 2021. gada februāra. Domājams, ka jūnijā salīdzinājumā ar maiju kopējais cenu līmenis nozīmīgi nemainās, pakalpojumu cenas turpina kāpt, bet pretēji darbojas lielākā svārstīgā preču komponente jeb degviela. Taču bāzes efekts jeb pērnā gada cenu līmeņa zigzagi inflāciju jūnijā ievērojami palielinās, tai pārsniedzot procentu, savukārt jūlijā un augustā atkal samazinoties apmēram līdz pašreizējam līmenim.&lt;br /&gt;&lt;/p&gt;
-  &lt;a href=&quot;/lv/news&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Jaunumi&lt;/a&gt;
-    &lt;p class=&quot;text--lead&quot;&gt;       
-        Par patēriņa cenu izmaiņām 2024. gada maijā    &lt;/p&gt;
-    &lt;span class=&quot;separator&quot;&gt;&lt;/span&gt;
-</description>
-     <pubDate>Tue, 11 Jun 2024 05:43:03 +0000</pubDate>
- <dc:creator>Guna.Janusevska</dc:creator>
- <guid isPermaLink="false">22734 at https://www.luminor.lv</guid>
   </item>
   </channel>
 </rss>
